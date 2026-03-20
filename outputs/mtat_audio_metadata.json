@@ -1,0 +1,4010 @@
+{
+  "source_tasks": "outputs/mtat_tasks.json",
+  "mtat_root": "mtat",
+  "num_clips": 500,
+  "embedding_dim": 768,
+  "clips": [
+    {
+      "index": 0,
+      "clip_id": "10022",
+      "mp3_path": "c/vito_paternoster-cd1bach_sonatas_and_partitas_for_solo_violin-02-sonata_prima_in_do_minore__fuga_allegro-88-117.mp3",
+      "artist": "Vito Paternoster",
+      "artist_id": "vito paternoster"
+    },
+    {
+      "index": 1,
+      "clip_id": "10148",
+      "mp3_path": "a/jade_leary-and_come_the_sirens-02-still_wanting_after_the_flood-30-59.mp3",
+      "artist": "Jade Leary",
+      "artist_id": "jade leary"
+    },
+    {
+      "index": 2,
+      "clip_id": "10153",
+      "mp3_path": "a/jade_leary-and_come_the_sirens-02-still_wanting_after_the_flood-175-204.mp3",
+      "artist": "Jade Leary",
+      "artist_id": "jade leary"
+    },
+    {
+      "index": 3,
+      "clip_id": "10183",
+      "mp3_path": "b/lisa_debenedictis-mixter_one-02-structured_emotions_by_james_margetts-204-233.mp3",
+      "artist": "Lisa DeBenedictis",
+      "artist_id": "lisa debenedictis"
+    },
+    {
+      "index": 4,
+      "clip_id": "10206",
+      "mp3_path": "1/vito_paternoster-cd1bach_cello_suites-02-suite_i_in_sol_maggiore__allemande-146-175.mp3",
+      "artist": "Vito Paternoster",
+      "artist_id": "vito paternoster"
+    },
+    {
+      "index": 5,
+      "clip_id": "10291",
+      "mp3_path": "3/very_large_array-stuff-02-superdrag-117-146.mp3",
+      "artist": "Very Large Array",
+      "artist_id": "very large array"
+    },
+    {
+      "index": 6,
+      "clip_id": "10316",
+      "mp3_path": "b/dj_cary-power_synths-02-symphony_of_force_saros-291-320.mp3",
+      "artist": "DJ Cary",
+      "artist_id": "dj cary"
+    },
+    {
+      "index": 7,
+      "clip_id": "10396",
+      "mp3_path": "4/jami_sieber-second_sight-02-tell_it_by_heart-175-204.mp3",
+      "artist": "Jami Sieber",
+      "artist_id": "jami sieber"
+    },
+    {
+      "index": 8,
+      "clip_id": "10428",
+      "mp3_path": "4/paul_avgerinos-sky_of_grace-02-the_calling-175-204.mp3",
+      "artist": "Paul Avgerinos",
+      "artist_id": "paul avgerinos"
+    },
+    {
+      "index": 9,
+      "clip_id": "10491",
+      "mp3_path": "5/cheryl_ann_fulton-the_once_and_future_harp-02-the_poet-175-204.mp3",
+      "artist": "Cheryl Ann Fulton",
+      "artist_id": "cheryl ann fulton"
+    },
+    {
+      "index": 10,
+      "clip_id": "10653",
+      "mp3_path": "4/justin_bianco-siren-02-token-0-29.mp3",
+      "artist": "Justin Bianco",
+      "artist_id": "justin bianco"
+    },
+    {
+      "index": 11,
+      "clip_id": "10671",
+      "mp3_path": "6/dj_markitos-slower_emotions138_bpm_remixes-02-trance_odyssey_138_bpm_remix-407-436.mp3",
+      "artist": "DJ Markitos",
+      "artist_id": "dj markitos"
+    },
+    {
+      "index": 12,
+      "clip_id": "10718",
+      "mp3_path": "5/stargarden-the_art_of_analog_diversion-02-trybal-349-378.mp3",
+      "artist": "Stargarden",
+      "artist_id": "stargarden"
+    },
+    {
+      "index": 13,
+      "clip_id": "10775",
+      "mp3_path": "7/dac_crowell-the_sea_and_the_sky-02-umi_no_kami_ni_kansha-1480-1509.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 14,
+      "clip_id": "10786",
+      "mp3_path": "7/dac_crowell-the_sea_and_the_sky-02-umi_no_kami_ni_kansha-1799-1828.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 15,
+      "clip_id": "10787",
+      "mp3_path": "7/dac_crowell-the_sea_and_the_sky-02-umi_no_kami_ni_kansha-1828-1857.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 16,
+      "clip_id": "10791",
+      "mp3_path": "7/dac_crowell-the_sea_and_the_sky-02-umi_no_kami_ni_kansha-1944-1973.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 17,
+      "clip_id": "10799",
+      "mp3_path": "7/dac_crowell-the_sea_and_the_sky-02-umi_no_kami_ni_kansha-2176-2205.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 18,
+      "clip_id": "10814",
+      "mp3_path": "7/dac_crowell-the_sea_and_the_sky-02-umi_no_kami_ni_kansha-2611-2640.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 19,
+      "clip_id": "10827",
+      "mp3_path": "7/dac_crowell-the_sea_and_the_sky-02-umi_no_kami_ni_kansha-2988-3017.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 20,
+      "clip_id": "10846",
+      "mp3_path": "5/thursday_group-uncle_mean-02-uncle_mean-233-262.mp3",
+      "artist": "Thursday Group",
+      "artist_id": "thursday group"
+    },
+    {
+      "index": 21,
+      "clip_id": "10887",
+      "mp3_path": "9/self_delusion-happiness_hurts_me-02-unemotional-59-88.mp3",
+      "artist": "Self Delusion",
+      "artist_id": "self delusion"
+    },
+    {
+      "index": 22,
+      "clip_id": "11016",
+      "mp3_path": "a/janine_johnson-chopin_recital-02-waltz_kk_iva_no_15_in_e_minor-175-204.mp3",
+      "artist": "Janine Johnson",
+      "artist_id": "janine johnson"
+    },
+    {
+      "index": 23,
+      "clip_id": "11022",
+      "mp3_path": "b/rebel_rebel-explode_into_space-02-we_are_the_future-146-175.mp3",
+      "artist": "Rebel Rebel",
+      "artist_id": "rebel rebel"
+    },
+    {
+      "index": 24,
+      "clip_id": "1104",
+      "mp3_path": "e/skitzo-heavy_shit-01-curse_of_the_phoenix-117-146.mp3",
+      "artist": "Skitzo",
+      "artist_id": "skitzo"
+    },
+    {
+      "index": 25,
+      "clip_id": "11102",
+      "mp3_path": "f/thursday_group-first_album-02-winds_eye-59-88.mp3",
+      "artist": "Thursday Group",
+      "artist_id": "thursday group"
+    },
+    {
+      "index": 26,
+      "clip_id": "11126",
+      "mp3_path": "e/dac_crowell-within_this_space-02-within_this_space-233-262.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 27,
+      "clip_id": "11142",
+      "mp3_path": "e/dac_crowell-within_this_space-02-within_this_space-697-726.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 28,
+      "clip_id": "1116",
+      "mp3_path": "d/ambient_teknology-the_all_seeing_eye_project-01-cyclops-175-204.mp3",
+      "artist": "Ambient Teknology",
+      "artist_id": "ambient teknology"
+    },
+    {
+      "index": 29,
+      "clip_id": "1124",
+      "mp3_path": "d/ambient_teknology-the_all_seeing_eye_project-01-cyclops-407-436.mp3",
+      "artist": "Ambient Teknology",
+      "artist_id": "ambient teknology"
+    },
+    {
+      "index": 30,
+      "clip_id": "11247",
+      "mp3_path": "0/rocket_city_riot-last_of_the_pleasure_seekers-03-believe_in_me-59-88.mp3",
+      "artist": "Rocket City Riot",
+      "artist_id": "rocket city riot"
+    },
+    {
+      "index": 31,
+      "clip_id": "11320",
+      "mp3_path": "9/american_bach_soloists-heinrich_schutz__musicalische_exequien-03-musicalische_exequien_swv_281_teil_iii_canticum_simeonis-233-262.mp3",
+      "artist": "American Bach Soloists",
+      "artist_id": "american bach soloists"
+    },
+    {
+      "index": 32,
+      "clip_id": "11348",
+      "mp3_path": "1/tanya_tomkins_and_eric_zivian-beethoven_piano_and_cello_works-03-7_variations_on_a_theme_from_the_magic_flute_in_eb_woo_46-291-320.mp3",
+      "artist": "Tanya Tomkins and Eric Zivian",
+      "artist_id": "tanya tomkins and eric zivian"
+    },
+    {
+      "index": 33,
+      "clip_id": "11363",
+      "mp3_path": "4/dj_markitos-evolution_of_the_mind-03-a_trip_beyond_the_universe-59-88.mp3",
+      "artist": "DJ Markitos",
+      "artist_id": "dj markitos"
+    },
+    {
+      "index": 34,
+      "clip_id": "1137",
+      "mp3_path": "d/tim_rayborn-chordae-01-damor_non_jauzi-175-204.mp3",
+      "artist": "Tim Rayborn",
+      "artist_id": "tim rayborn"
+    },
+    {
+      "index": 35,
+      "clip_id": "11387",
+      "mp3_path": "6/drop_trio-cezanne-03-abbey_rhodes-175-204.mp3",
+      "artist": "Drop Trio",
+      "artist_id": "drop trio"
+    },
+    {
+      "index": 36,
+      "clip_id": "11405",
+      "mp3_path": "1/william_brooks-karma_dogs-03-after_the_flood-88-117.mp3",
+      "artist": "William Brooks",
+      "artist_id": "william brooks"
+    },
+    {
+      "index": 37,
+      "clip_id": "11424",
+      "mp3_path": "d/beth_quist-shall_we_dance-03-air_chair-378-407.mp3",
+      "artist": "Beth Quist",
+      "artist_id": "beth quist"
+    },
+    {
+      "index": 38,
+      "clip_id": "11438",
+      "mp3_path": "2/jami_sieber-lush_mechanique-03-all_she_can_carry-175-204.mp3",
+      "artist": "Jami Sieber",
+      "artist_id": "jami sieber"
+    },
+    {
+      "index": 39,
+      "clip_id": "11439",
+      "mp3_path": "2/jami_sieber-lush_mechanique-03-all_she_can_carry-204-233.mp3",
+      "artist": "Jami Sieber",
+      "artist_id": "jami sieber"
+    },
+    {
+      "index": 40,
+      "clip_id": "115",
+      "mp3_path": "f/tilopa-turkishauch-01-1x3-0-29.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 41,
+      "clip_id": "11520",
+      "mp3_path": "d/paul_avgerinos-words_touch-03-always_with_you-291-320.mp3",
+      "artist": "Paul Avgerinos",
+      "artist_id": "paul avgerinos"
+    },
+    {
+      "index": 42,
+      "clip_id": "1153",
+      "mp3_path": "d/tim_rayborn-chordae-01-damor_non_jauzi-639-668.mp3",
+      "artist": "Tim Rayborn",
+      "artist_id": "tim rayborn"
+    },
+    {
+      "index": 43,
+      "clip_id": "11559",
+      "mp3_path": "a/tilopa-by_the_way-03-amigos_de_viaje-494-523.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 44,
+      "clip_id": "1156",
+      "mp3_path": "d/tim_rayborn-chordae-01-damor_non_jauzi-726-755.mp3",
+      "artist": "Tim Rayborn",
+      "artist_id": "tim rayborn"
+    },
+    {
+      "index": 45,
+      "clip_id": "11613",
+      "mp3_path": "5/domased-selection-03-another_lifeform-262-291.mp3",
+      "artist": "Domased",
+      "artist_id": "domased"
+    },
+    {
+      "index": 46,
+      "clip_id": "11636",
+      "mp3_path": "d/seismic_anamoly-afterburner-03-anthem_for_hcp-30-59.mp3",
+      "artist": "Seismic Anamoly",
+      "artist_id": "seismic anamoly"
+    },
+    {
+      "index": 47,
+      "clip_id": "11696",
+      "mp3_path": "f/tilopa-turkishauch-03-avanti-291-320.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 48,
+      "clip_id": "11836",
+      "mp3_path": "5/rapoon-cidar-03-black_feel-0-29.mp3",
+      "artist": "Rapoon",
+      "artist_id": "rapoon"
+    },
+    {
+      "index": 49,
+      "clip_id": "11866",
+      "mp3_path": "9/kiev_seminary_choir-hymns_of_the_allnight_vigil-03-bless_the_lord_o_my_soul-59-88.mp3",
+      "artist": "Kiev Seminary Choir",
+      "artist_id": "kiev seminary choir"
+    },
+    {
+      "index": 50,
+      "clip_id": "11878",
+      "mp3_path": "9/kiev_seminary_choir-hymns_of_the_allnight_vigil-03-bless_the_lord_o_my_soul-407-436.mp3",
+      "artist": "Kiev Seminary Choir",
+      "artist_id": "kiev seminary choir"
+    },
+    {
+      "index": 51,
+      "clip_id": "11950",
+      "mp3_path": "8/daniel_berkman-calabashmoon-03-breakaway-262-291.mp3",
+      "artist": "Daniel Berkman",
+      "artist_id": "daniel berkman"
+    },
+    {
+      "index": 52,
+      "clip_id": "12",
+      "mp3_path": "f/american_bach_soloists-j_s__bach_solo_cantatas-01-bwv54__i_aria-320-349.mp3",
+      "artist": "American Bach Soloists",
+      "artist_id": "american bach soloists"
+    },
+    {
+      "index": 53,
+      "clip_id": "120",
+      "mp3_path": "f/tilopa-turkishauch-01-1x3-146-175.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 54,
+      "clip_id": "12035",
+      "mp3_path": "e/dac_crowell-within_this_space-03-cantillation-726-755.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 55,
+      "clip_id": "12060",
+      "mp3_path": "2/magnatune_compilation-electronica-03-cargo_cult_garden-30-59.mp3",
+      "artist": "Magnatune Compilation",
+      "artist_id": "magnatune compilation"
+    },
+    {
+      "index": 56,
+      "clip_id": "12088",
+      "mp3_path": "1/dac_crowell-sferica-03-chapel_hill_phantom_lantern-59-88.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 57,
+      "clip_id": "12102",
+      "mp3_path": "1/dac_crowell-sferica-03-chapel_hill_phantom_lantern-465-494.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 58,
+      "clip_id": "12106",
+      "mp3_path": "1/dac_crowell-sferica-03-chapel_hill_phantom_lantern-581-610.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 59,
+      "clip_id": "12124",
+      "mp3_path": "1/suzanne_teng-mystic_journey-03-china_lily-30-59.mp3",
+      "artist": "Suzanne Teng",
+      "artist_id": "suzanne teng"
+    },
+    {
+      "index": 60,
+      "clip_id": "12159",
+      "mp3_path": "2/solace-ahsas-03-circle_58_68_78-175-204.mp3",
+      "artist": "Solace",
+      "artist_id": "solace"
+    },
+    {
+      "index": 61,
+      "clip_id": "12246",
+      "mp3_path": "b/philharmonia_baroque-mozart_orchestral_works-03-concerto_for_flute_and_orchestra_in_g_major_kv313_andantino-117-146.mp3",
+      "artist": "Philharmonia Baroque",
+      "artist_id": "philharmonia baroque"
+    },
+    {
+      "index": 62,
+      "clip_id": "1225",
+      "mp3_path": "a/falling_you-human-01-destiny_trip-0-29.mp3",
+      "artist": "Falling You",
+      "artist_id": "falling you"
+    },
+    {
+      "index": 63,
+      "clip_id": "1232",
+      "mp3_path": "a/falling_you-human-01-destiny_trip-204-233.mp3",
+      "artist": "Falling You",
+      "artist_id": "falling you"
+    },
+    {
+      "index": 64,
+      "clip_id": "12348",
+      "mp3_path": "c/seismic_anamoly-ramifications-03-cum_with_me-291-320.mp3",
+      "artist": "Seismic Anamoly",
+      "artist_id": "seismic anamoly"
+    },
+    {
+      "index": 65,
+      "clip_id": "12359",
+      "mp3_path": "7/solace-vadalna-03-cybeleneotribal_mix-88-117.mp3",
+      "artist": "Solace",
+      "artist_id": "solace"
+    },
+    {
+      "index": 66,
+      "clip_id": "12408",
+      "mp3_path": "6/mercy_machine-in_your_bed__instrumental_mix-03-damascus_instrumental_mix-0-29.mp3",
+      "artist": "Mercy Machine",
+      "artist_id": "mercy machine"
+    },
+    {
+      "index": 67,
+      "clip_id": "12424",
+      "mp3_path": "6/mercy_machine-in_your_bed-03-damascus-204-233.mp3",
+      "artist": "Mercy Machine",
+      "artist_id": "mercy machine"
+    },
+    {
+      "index": 68,
+      "clip_id": "12443",
+      "mp3_path": "9/suzanne_teng-enchanted_wind-03-dark_moon-175-204.mp3",
+      "artist": "Suzanne Teng",
+      "artist_id": "suzanne teng"
+    },
+    {
+      "index": 69,
+      "clip_id": "12458",
+      "mp3_path": "d/paul_avgerinos-maya__the_great_katun-03-dawn_of_the_gods_part_3-59-88.mp3",
+      "artist": "Paul Avgerinos",
+      "artist_id": "paul avgerinos"
+    },
+    {
+      "index": 70,
+      "clip_id": "12478",
+      "mp3_path": "1/ambient_teknology-phoenix-03-deeper-175-204.mp3",
+      "artist": "Ambient Teknology",
+      "artist_id": "ambient teknology"
+    },
+    {
+      "index": 71,
+      "clip_id": "12482",
+      "mp3_path": "1/ambient_teknology-phoenix-03-deeper-291-320.mp3",
+      "artist": "Ambient Teknology",
+      "artist_id": "ambient teknology"
+    },
+    {
+      "index": 72,
+      "clip_id": "12484",
+      "mp3_path": "1/ambient_teknology-phoenix-03-deeper-349-378.mp3",
+      "artist": "Ambient Teknology",
+      "artist_id": "ambient teknology"
+    },
+    {
+      "index": 73,
+      "clip_id": "12495",
+      "mp3_path": "5/dj_markitos-unreachable_destiny-03-definition_of_freedom-204-233.mp3",
+      "artist": "DJ Markitos",
+      "artist_id": "dj markitos"
+    },
+    {
+      "index": 74,
+      "clip_id": "12550",
+      "mp3_path": "b/cargo_cult-alchemy-03-dilemma-204-233.mp3",
+      "artist": "Cargo Cult",
+      "artist_id": "cargo cult"
+    },
+    {
+      "index": 75,
+      "clip_id": "12587",
+      "mp3_path": "f/kyiv_chamber_choir-masterpieces_of_the_ukrainian_choral_baroque-03-do_not_forsake_me-146-175.mp3",
+      "artist": "Kyiv Chamber Choir",
+      "artist_id": "kyiv chamber choir"
+    },
+    {
+      "index": 76,
+      "clip_id": "12591",
+      "mp3_path": "f/kyiv_chamber_choir-masterpieces_of_the_ukrainian_choral_baroque-03-do_not_forsake_me-262-291.mp3",
+      "artist": "Kyiv Chamber Choir",
+      "artist_id": "kyiv chamber choir"
+    },
+    {
+      "index": 77,
+      "clip_id": "12607",
+      "mp3_path": "d/kitka-wintersongs-03-domnulet_si_domn_din_cer_romania-88-117.mp3",
+      "artist": "Kitka",
+      "artist_id": "kitka"
+    },
+    {
+      "index": 78,
+      "clip_id": "12630",
+      "mp3_path": "d/shiva_in_exile-ethnic-03-dragon_dance-59-88.mp3",
+      "artist": "Shiva In Exile",
+      "artist_id": "shiva in exile"
+    },
+    {
+      "index": 79,
+      "clip_id": "12784",
+      "mp3_path": "b/philharmonia_baroque-beethoven_symphonies_no_3_eroica_and_no_8-03-eroica_3rd_and_4th-117-146.mp3",
+      "artist": "Philharmonia Baroque",
+      "artist_id": "philharmonia baroque"
+    },
+    {
+      "index": 80,
+      "clip_id": "13025",
+      "mp3_path": "4/monks_and_choirs_of_kiev_pechersk_lavra-chants_of_the_russian_orthodox_church-03-forestalling_the_morning_n_knegnitsky-88-117.mp3",
+      "artist": "Monks and Choirs of Kiev Pechersk Lavra",
+      "artist_id": "monks and choirs of kiev pechersk lavra"
+    },
+    {
+      "index": 81,
+      "clip_id": "13073",
+      "mp3_path": "c/soulprint-in_spite_of_it_all-03-fua-117-146.mp3",
+      "artist": "SoulPrint",
+      "artist_id": "soulprint"
+    },
+    {
+      "index": 82,
+      "clip_id": "13105",
+      "mp3_path": "5/nova_express-gimme_some-03-give_it_to_you-0-29.mp3",
+      "artist": "Nova Express",
+      "artist_id": "nova express"
+    },
+    {
+      "index": 83,
+      "clip_id": "13115",
+      "mp3_path": "a/yongen-yello_haus-03-give_you_up-146-175.mp3",
+      "artist": "Yongen",
+      "artist_id": "yongen"
+    },
+    {
+      "index": 84,
+      "clip_id": "13221",
+      "mp3_path": "c/liquid_zen-oscilloscope-03-heaven_in_your_heart-0-29.mp3",
+      "artist": "Liquid Zen",
+      "artist_id": "liquid zen"
+    },
+    {
+      "index": 85,
+      "clip_id": "13266",
+      "mp3_path": "7/aba_structure-epic-03-houseboats-523-552.mp3",
+      "artist": "ABA STRUCTURE",
+      "artist_id": "aba structure"
+    },
+    {
+      "index": 86,
+      "clip_id": "13280",
+      "mp3_path": "a/the_headroom_project-ciri_a_doro-03-hoyd_hoy_june-146-175.mp3",
+      "artist": "The Headroom Project",
+      "artist_id": "the headroom project"
+    },
+    {
+      "index": 87,
+      "clip_id": "13300",
+      "mp3_path": "9/artemis-orbits-03-hypno_hypnosphere_mix__sensor_ii-0-29.mp3",
+      "artist": "Artemis",
+      "artist_id": "artemis"
+    },
+    {
+      "index": 88,
+      "clip_id": "13348",
+      "mp3_path": "9/etherine-gleam-03-if-204-233.mp3",
+      "artist": "Etherine",
+      "artist_id": "etherine"
+    },
+    {
+      "index": 89,
+      "clip_id": "13353",
+      "mp3_path": "f/kenji_williams-faces_of_epiphany-03-illusion_bedrock_mix-88-117.mp3",
+      "artist": "Kenji Williams",
+      "artist_id": "kenji williams"
+    },
+    {
+      "index": 90,
+      "clip_id": "13360",
+      "mp3_path": "f/kenji_williams-faces_of_epiphany-03-illusion_bedrock_mix-291-320.mp3",
+      "artist": "Kenji Williams",
+      "artist_id": "kenji williams"
+    },
+    {
+      "index": 91,
+      "clip_id": "13440",
+      "mp3_path": "c/glen_bledsoe-up_and_down-03-invention_no__1-0-29.mp3",
+      "artist": "Glen Bledsoe",
+      "artist_id": "glen bledsoe"
+    },
+    {
+      "index": 92,
+      "clip_id": "13462",
+      "mp3_path": "2/anup-embrace-03-jingle_bells-175-204.mp3",
+      "artist": "Anup",
+      "artist_id": "anup"
+    },
+    {
+      "index": 93,
+      "clip_id": "13463",
+      "mp3_path": "2/anup-embrace-03-jingle_bells-204-233.mp3",
+      "artist": "Anup",
+      "artist_id": "anup"
+    },
+    {
+      "index": 94,
+      "clip_id": "13500",
+      "mp3_path": "6/electric_frankenstein-conquers_the_world-03-just_like_your_mom-88-117.mp3",
+      "artist": "Electric Frankenstein",
+      "artist_id": "electric frankenstein"
+    },
+    {
+      "index": 95,
+      "clip_id": "13582",
+      "mp3_path": "9/william_brooks-silent_wings-03-land_of_lincoln-30-59.mp3",
+      "artist": "William Brooks",
+      "artist_id": "william brooks"
+    },
+    {
+      "index": 96,
+      "clip_id": "13674",
+      "mp3_path": "b/seismic_anamoly-dead_mans_hand-03-long_gone-204-233.mp3",
+      "artist": "Seismic Anamoly",
+      "artist_id": "seismic anamoly"
+    },
+    {
+      "index": 97,
+      "clip_id": "13703",
+      "mp3_path": "b/lisa_debenedictis-mixter_one-03-love_bird_featuring_lisa_debenedictis_by_callmeyang-0-29.mp3",
+      "artist": "Lisa DeBenedictis",
+      "artist_id": "lisa debenedictis"
+    },
+    {
+      "index": 98,
+      "clip_id": "13776",
+      "mp3_path": "2/indidginus-seismic-03-master_of_masters-175-204.mp3",
+      "artist": "Indidginus",
+      "artist_id": "indidginus"
+    },
+    {
+      "index": 99,
+      "clip_id": "13823",
+      "mp3_path": "a/dac_crowell-the_mechanism_of_starlight-03-mendota-88-117.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 100,
+      "clip_id": "13832",
+      "mp3_path": "a/dac_crowell-the_mechanism_of_starlight-03-mendota-349-378.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 101,
+      "clip_id": "13835",
+      "mp3_path": "a/dac_crowell-the_mechanism_of_starlight-03-mendota-436-465.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 102,
+      "clip_id": "13847",
+      "mp3_path": "a/dac_crowell-the_mechanism_of_starlight-03-mendota-784-813.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 103,
+      "clip_id": "13876",
+      "mp3_path": "e/skitzo-heavy_shit-03-metallic_tyrants-146-175.mp3",
+      "artist": "Skitzo",
+      "artist_id": "skitzo"
+    },
+    {
+      "index": 104,
+      "clip_id": "13973",
+      "mp3_path": "5/thursday_group-uncle_mean-03-moroccan-175-204.mp3",
+      "artist": "Thursday Group",
+      "artist_id": "thursday group"
+    },
+    {
+      "index": 105,
+      "clip_id": "13989",
+      "mp3_path": "6/stargarden-ambient_excursions-03-mt_fuji-233-262.mp3",
+      "artist": "Stargarden",
+      "artist_id": "stargarden"
+    },
+    {
+      "index": 106,
+      "clip_id": "13990",
+      "mp3_path": "6/stargarden-ambient_excursions-03-mt_fuji-262-291.mp3",
+      "artist": "Stargarden",
+      "artist_id": "stargarden"
+    },
+    {
+      "index": 107,
+      "clip_id": "14091",
+      "mp3_path": "d/paul_avgerinos-balancing_spheres-03-night_illusions__one_path_revealed-233-262.mp3",
+      "artist": "Paul Avgerinos",
+      "artist_id": "paul avgerinos"
+    },
+    {
+      "index": 108,
+      "clip_id": "14139",
+      "mp3_path": "8/magnatune-red_hat_summit_compilation-03-norine_braun__animus_down_and_in-30-59.mp3",
+      "artist": "Magnatune",
+      "artist_id": "magnatune"
+    },
+    {
+      "index": 109,
+      "clip_id": "14147",
+      "mp3_path": "a/jade_leary-the_lost_art_of_human_kindness-03-northward-0-29.mp3",
+      "artist": "Jade Leary",
+      "artist_id": "jade leary"
+    },
+    {
+      "index": 110,
+      "clip_id": "1415",
+      "mp3_path": "b/belief_systems-eponyms-01-electro_jive-436-465.mp3",
+      "artist": "Belief Systems",
+      "artist_id": "belief systems"
+    },
+    {
+      "index": 111,
+      "clip_id": "14225",
+      "mp3_path": "f/three_holies_church_choristers-the_hymns_of_the_ancient_church-03-o_theotokos_and_vergin_rejoice_ave_maria-59-88.mp3",
+      "artist": "Three Holies Church Choristers",
+      "artist_id": "three holies church choristers"
+    },
+    {
+      "index": 112,
+      "clip_id": "14352",
+      "mp3_path": "0/chris_harvey-the_white_sail-03-paris-204-233.mp3",
+      "artist": "Chris Harvey",
+      "artist_id": "chris harvey"
+    },
+    {
+      "index": 113,
+      "clip_id": "14359",
+      "mp3_path": "5/four_stones_net-ridin_the_faders-03-part_3-0-29.mp3",
+      "artist": "Four Stones.Net",
+      "artist_id": "four stones.net"
+    },
+    {
+      "index": 114,
+      "clip_id": "14430",
+      "mp3_path": "5/stargarden-the_art_of_analog_diversion-03-pleaides-117-146.mp3",
+      "artist": "Stargarden",
+      "artist_id": "stargarden"
+    },
+    {
+      "index": 115,
+      "clip_id": "14455",
+      "mp3_path": "b/wicked_allstars-dark_clouds-03-possible_new_house-175-204.mp3",
+      "artist": "Wicked Allstars",
+      "artist_id": "wicked allstars"
+    },
+    {
+      "index": 116,
+      "clip_id": "14505",
+      "mp3_path": "4/skitzo-babblesick-03-prom_night-117-146.mp3",
+      "artist": "Skitzo",
+      "artist_id": "skitzo"
+    },
+    {
+      "index": 117,
+      "clip_id": "14554",
+      "mp3_path": "0/american_bach_soloists-joseph_haydn__masses-03-qui_tollis__adagio-59-88.mp3",
+      "artist": "American Bach Soloists",
+      "artist_id": "american bach soloists"
+    },
+    {
+      "index": 118,
+      "clip_id": "14633",
+      "mp3_path": "f/dac_crowell-redshifted_harmonies-03-redshifted_harmonies-233-262.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 119,
+      "clip_id": "14652",
+      "mp3_path": "b/satori-journey_to_other_worlds-03-return-30-59.mp3",
+      "artist": "Satori",
+      "artist_id": "satori"
+    },
+    {
+      "index": 120,
+      "clip_id": "14653",
+      "mp3_path": "b/satori-journey_to_other_worlds-03-return-59-88.mp3",
+      "artist": "Satori",
+      "artist_id": "satori"
+    },
+    {
+      "index": 121,
+      "clip_id": "14692",
+      "mp3_path": "0/ensemble_vermillian-stolen_jewels-03-rosenmuller_sonata_teraz_a_2_presto-30-59.mp3",
+      "artist": "Ensemble Vermillian",
+      "artist_id": "ensemble vermillian"
+    },
+    {
+      "index": 122,
+      "clip_id": "14709",
+      "mp3_path": "a/tilopa-pictures_of_silence-03-san-204-233.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 123,
+      "clip_id": "14737",
+      "mp3_path": "4/music_of_the_spheres-music_of_the_spheres-03-schmelzer_sonata_iv_in_d_major-436-465.mp3",
+      "artist": "Music of the Spheres",
+      "artist_id": "music of the spheres"
+    },
+    {
+      "index": 124,
+      "clip_id": "14776",
+      "mp3_path": "5/satori-for_relaxation-03-sea_surround-349-378.mp3",
+      "artist": "Satori",
+      "artist_id": "satori"
+    },
+    {
+      "index": 125,
+      "clip_id": "14783",
+      "mp3_path": "d/satori-golden_dreams-03-searching_for_the_rest-59-88.mp3",
+      "artist": "Satori",
+      "artist_id": "satori"
+    },
+    {
+      "index": 126,
+      "clip_id": "14850",
+      "mp3_path": "b/elizabeth_wolff-moments_musicaux-03-sergei_rachmaninoff__6_moments_musicaux_op__16__andante_cantabile-262-291.mp3",
+      "artist": "Elizabeth Wolff",
+      "artist_id": "elizabeth wolff"
+    },
+    {
+      "index": 127,
+      "clip_id": "14868",
+      "mp3_path": "b/oberlin_consort_of_viols-5_and_6_part_fantasies_of_william_lawes-03-set_a_5_in_f_major-494-523.mp3",
+      "artist": "Oberlin Consort of Viols",
+      "artist_id": "oberlin consort of viols"
+    },
+    {
+      "index": 128,
+      "clip_id": "14888",
+      "mp3_path": "f/hans_christian-surrender-03-shades_of_blue-320-349.mp3",
+      "artist": "Hans Christian",
+      "artist_id": "hans christian"
+    },
+    {
+      "index": 129,
+      "clip_id": "14932",
+      "mp3_path": "4/jay_kishor-the_color_of_night-03-shivranjani-175-204.mp3",
+      "artist": "Jay Kishor",
+      "artist_id": "jay kishor"
+    },
+    {
+      "index": 130,
+      "clip_id": "14968",
+      "mp3_path": "9/wicked_boy-chemistry-03-shodusion-117-146.mp3",
+      "artist": "Wicked boy",
+      "artist_id": "wicked boy"
+    },
+    {
+      "index": 131,
+      "clip_id": "14995",
+      "mp3_path": "4/touchinggrace-panacea-03-sitar_study-0-29.mp3",
+      "artist": "touchingGrace",
+      "artist_id": "touchinggrace"
+    },
+    {
+      "index": 132,
+      "clip_id": "15017",
+      "mp3_path": "a/bjorn_fogelberg-karooshi_porn-03-sixfiveoneoh-407-436.mp3",
+      "artist": "Bjorn Fogelberg",
+      "artist_id": "bjorn fogelberg"
+    },
+    {
+      "index": 133,
+      "clip_id": "15049",
+      "mp3_path": "1/spinecar-up_from_the_mud-03-smoke-349-378.mp3",
+      "artist": "Spinecar",
+      "artist_id": "spinecar"
+    },
+    {
+      "index": 134,
+      "clip_id": "15081",
+      "mp3_path": "2/version-versions-03-solaire-0-29.mp3",
+      "artist": "Version",
+      "artist_id": "version"
+    },
+    {
+      "index": 135,
+      "clip_id": "15098",
+      "mp3_path": "2/version-versions-03-solaire-494-523.mp3",
+      "artist": "Version",
+      "artist_id": "version"
+    },
+    {
+      "index": 136,
+      "clip_id": "1513",
+      "mp3_path": "1/anamar-transfado-01-eu_nao_sabia_i_did_not_knoow-0-29.mp3",
+      "artist": "Anamar",
+      "artist_id": "anamar"
+    },
+    {
+      "index": 137,
+      "clip_id": "1515",
+      "mp3_path": "1/anamar-transfado-01-eu_nao_sabia_i_did_not_knoow-59-88.mp3",
+      "artist": "Anamar",
+      "artist_id": "anamar"
+    },
+    {
+      "index": 138,
+      "clip_id": "15190",
+      "mp3_path": "4/seth_carlin-schubert__works_for_solo_fortepiano-03-sonata_in_eflat_major_opus_posth__122__menuetto_allegretto-204-233.mp3",
+      "artist": "Seth Carlin",
+      "artist_id": "seth carlin"
+    },
+    {
+      "index": 139,
+      "clip_id": "15233",
+      "mp3_path": "c/vito_paternoster-cd1bach_sonatas_and_partitas_for_solo_violin-03-sonata_prima_in_do_minore__siciliana-117-146.mp3",
+      "artist": "Vito Paternoster",
+      "artist_id": "vito paternoster"
+    },
+    {
+      "index": 140,
+      "clip_id": "15281",
+      "mp3_path": "3/spinecar-autophile-03-soul_patch-175-204.mp3",
+      "artist": "Spinecar",
+      "artist_id": "spinecar"
+    },
+    {
+      "index": 141,
+      "clip_id": "15289",
+      "mp3_path": "9/domased-slowdown-03-sound_of_ambient_part_1-146-175.mp3",
+      "artist": "Domased",
+      "artist_id": "domased"
+    },
+    {
+      "index": 142,
+      "clip_id": "15299",
+      "mp3_path": "4/john_williams-long_ride_home-03-southern_flyer-59-88.mp3",
+      "artist": "John Williams",
+      "artist_id": "john williams"
+    },
+    {
+      "index": 143,
+      "clip_id": "1531",
+      "mp3_path": "2/saros-soundscapes-01-eventide-262-291.mp3",
+      "artist": "Saros",
+      "artist_id": "saros"
+    },
+    {
+      "index": 144,
+      "clip_id": "15322",
+      "mp3_path": "2/antiguru-fall_submissions-03-steps-146-175.mp3",
+      "artist": "AntiGuru",
+      "artist_id": "antiguru"
+    },
+    {
+      "index": 145,
+      "clip_id": "15332",
+      "mp3_path": "c/william_brooks-fowl_mouth-03-still_waiting-59-88.mp3",
+      "artist": "William Brooks",
+      "artist_id": "william brooks"
+    },
+    {
+      "index": 146,
+      "clip_id": "15336",
+      "mp3_path": "5/arthur_yoria-of_the_lovely-03-strange_grin-30-59.mp3",
+      "artist": "Arthur Yoria",
+      "artist_id": "arthur yoria"
+    },
+    {
+      "index": 147,
+      "clip_id": "15364",
+      "mp3_path": "d/drevo-christian_themes_in_ukrainian_folk_songs-03-suffering_mother_stood_near_the_cross-146-175.mp3",
+      "artist": "Drevo",
+      "artist_id": "drevo"
+    },
+    {
+      "index": 148,
+      "clip_id": "15400",
+      "mp3_path": "3/les_filles_de_sainte_colombe-german_music_for_viols_and_harpsichord-03-suite_in_d_minor_farina-320-349.mp3",
+      "artist": "Les Filles de Sainte Colombe",
+      "artist_id": "les filles de sainte colombe"
+    },
+    {
+      "index": 149,
+      "clip_id": "15486",
+      "mp3_path": "2/saros-soundscapes-03-symphony_of_force-0-29.mp3",
+      "artist": "Saros",
+      "artist_id": "saros"
+    },
+    {
+      "index": 150,
+      "clip_id": "15623",
+      "mp3_path": "5/paul_avgerinos-muse_of_the_round_sky-03-the_lotus_eaters-320-349.mp3",
+      "artist": "Paul Avgerinos",
+      "artist_id": "paul avgerinos"
+    },
+    {
+      "index": 151,
+      "clip_id": "15722",
+      "mp3_path": "0/the_bots-truth-03-this_thing_called_happiness-59-88.mp3",
+      "artist": "The Bots",
+      "artist_id": "the bots"
+    },
+    {
+      "index": 152,
+      "clip_id": "15730",
+      "mp3_path": "f/satori-healing_sounds_of_tibet-03-tibetan_horn-117-146.mp3",
+      "artist": "Satori",
+      "artist_id": "satori"
+    },
+    {
+      "index": 153,
+      "clip_id": "15826",
+      "mp3_path": "6/curandero-curandero-03-tranquilo-0-29.mp3",
+      "artist": "Curandero",
+      "artist_id": "curandero"
+    },
+    {
+      "index": 154,
+      "clip_id": "15838",
+      "mp3_path": "b/solar_cycle-sunlight-03-traveling-88-117.mp3",
+      "artist": "Solar Cycle",
+      "artist_id": "solar cycle"
+    },
+    {
+      "index": 155,
+      "clip_id": "15849",
+      "mp3_path": "c/telemann_trio_berlin-telemann_trio_berlin-03-triosonate_fur_flute_violine_und_basso__grave_telemann-30-59.mp3",
+      "artist": "Telemann Trio Berlin",
+      "artist_id": "telemann trio berlin"
+    },
+    {
+      "index": 156,
+      "clip_id": "15850",
+      "mp3_path": "c/telemann_trio_berlin-telemann_trio_berlin-03-triosonate_fur_flute_violine_und_basso__grave_telemann-59-88.mp3",
+      "artist": "Telemann Trio Berlin",
+      "artist_id": "telemann trio berlin"
+    },
+    {
+      "index": 157,
+      "clip_id": "15856",
+      "mp3_path": "a/jade_leary-and_come_the_sirens-03-tropics-88-117.mp3",
+      "artist": "Jade Leary",
+      "artist_id": "jade leary"
+    },
+    {
+      "index": 158,
+      "clip_id": "15933",
+      "mp3_path": "8/ivilion-terean-03-urtulitreator-291-320.mp3",
+      "artist": "Ivilion",
+      "artist_id": "ivilion"
+    },
+    {
+      "index": 159,
+      "clip_id": "1596",
+      "mp3_path": "8/ivilion-terean-01-ferrilotyr-59-88.mp3",
+      "artist": "Ivilion",
+      "artist_id": "ivilion"
+    },
+    {
+      "index": 160,
+      "clip_id": "15977",
+      "mp3_path": "a/asteria-soyes_loyal-03-vergine_bella_guillaume_dufay-117-146.mp3",
+      "artist": "Asteria",
+      "artist_id": "asteria"
+    },
+    {
+      "index": 161,
+      "clip_id": "16261",
+      "mp3_path": "9/american_bach_soloists-heinrich_schutz__musicalische_exequien-04-kleine_geistliche_konzerte_swv_283_bringt_her_dem_herren-204-233.mp3",
+      "artist": "American Bach Soloists",
+      "artist_id": "american bach soloists"
+    },
+    {
+      "index": 162,
+      "clip_id": "16285",
+      "mp3_path": "6/ralph_meulenbroeks-gambomania-04-sonata_in_d_minor_adagio_karl_friedrich_abel-175-204.mp3",
+      "artist": "Ralph Meulenbroeks",
+      "artist_id": "ralph meulenbroeks"
+    },
+    {
+      "index": 163,
+      "clip_id": "16349",
+      "mp3_path": "b/philharmonia_baroque-beethoven_symphonies_no_3_eroica_and_no_8-04-8_symph_1st-465-494.mp3",
+      "artist": "Philharmonia Baroque",
+      "artist_id": "philharmonia baroque"
+    },
+    {
+      "index": 164,
+      "clip_id": "16356",
+      "mp3_path": "1/zilla-egg-04-a_great_many_maps-146-175.mp3",
+      "artist": "Zilla",
+      "artist_id": "zilla"
+    },
+    {
+      "index": 165,
+      "clip_id": "16358",
+      "mp3_path": "1/zilla-egg-04-a_great_many_maps-204-233.mp3",
+      "artist": "Zilla",
+      "artist_id": "zilla"
+    },
+    {
+      "index": 166,
+      "clip_id": "16405",
+      "mp3_path": "9/the_wretch-ambulatory-04-alerting-175-204.mp3",
+      "artist": "The Wretch",
+      "artist_id": "the wretch"
+    },
+    {
+      "index": 167,
+      "clip_id": "16461",
+      "mp3_path": "c/magnatune-classical-04-andreas_haefliger_mozart_sonata_in_c_major_kv_545_rondo__allegretto-0-29.mp3",
+      "artist": "Magnatune",
+      "artist_id": "magnatune"
+    },
+    {
+      "index": 168,
+      "clip_id": "16537",
+      "mp3_path": "3/spinecar-autophile-04-autophile-262-291.mp3",
+      "artist": "Spinecar",
+      "artist_id": "spinecar"
+    },
+    {
+      "index": 169,
+      "clip_id": "16542",
+      "mp3_path": "3/spinecar-autophile-04-autophile-407-436.mp3",
+      "artist": "Spinecar",
+      "artist_id": "spinecar"
+    },
+    {
+      "index": 170,
+      "clip_id": "16544",
+      "mp3_path": "a/jade_leary-and_come_the_sirens-04-axis_trance-0-29.mp3",
+      "artist": "Jade Leary",
+      "artist_id": "jade leary"
+    },
+    {
+      "index": 171,
+      "clip_id": "16634",
+      "mp3_path": "2/magnatune_compilation-electronica-04-belief_systems_filterdub_atmospheres-204-233.mp3",
+      "artist": "Magnatune Compilation",
+      "artist_id": "magnatune compilation"
+    },
+    {
+      "index": 172,
+      "clip_id": "16687",
+      "mp3_path": "1/dac_crowell-sferica-04-benthic-465-494.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 173,
+      "clip_id": "16777",
+      "mp3_path": "9/kiev_seminary_choir-hymns_of_the_allnight_vigil-04-blessed_is_the_man-146-175.mp3",
+      "artist": "Kiev Seminary Choir",
+      "artist_id": "kiev seminary choir"
+    },
+    {
+      "index": 174,
+      "clip_id": "16788",
+      "mp3_path": "0/rocket_city_riot-middle_age_suicide-04-blow_my_mind-30-59.mp3",
+      "artist": "Rocket City Riot",
+      "artist_id": "rocket city riot"
+    },
+    {
+      "index": 175,
+      "clip_id": "16907",
+      "mp3_path": "5/processor-are_you_for_real-04-call_the_sheriff-204-233.mp3",
+      "artist": "Processor",
+      "artist_id": "processor"
+    },
+    {
+      "index": 176,
+      "clip_id": "16958",
+      "mp3_path": "2/ensemble_sreteniye___three_holies_church_choristers-dont_cry_rachael-04-cherubic_hymn_georgian_chant-30-59.mp3",
+      "artist": "Ensemble Sreteniye & Three Holies Church Choristers",
+      "artist_id": "ensemble sreteniye & three holies church choristers"
+    },
+    {
+      "index": 177,
+      "clip_id": "16974",
+      "mp3_path": "4/american_bach_soloists-j_s__bach__favorite_cantatas-04-chorale__zion_hort_die_wachter_singen-175-204.mp3",
+      "artist": "American Bach Soloists",
+      "artist_id": "american bach soloists"
+    },
+    {
+      "index": 178,
+      "clip_id": "16975",
+      "mp3_path": "4/american_bach_soloists-j_s__bach__favorite_cantatas-04-chorale__zion_hort_die_wachter_singen-204-233.mp3",
+      "artist": "American Bach Soloists",
+      "artist_id": "american bach soloists"
+    },
+    {
+      "index": 179,
+      "clip_id": "17028",
+      "mp3_path": "a/ensemble_sreteniye-ancient_church_singing_of_byzantine_georgia_and_rus-04-come_let_us_worship_strochnoi_chant-0-29.mp3",
+      "artist": "Ensemble Sreteniye",
+      "artist_id": "ensemble sreteniye"
+    },
+    {
+      "index": 180,
+      "clip_id": "1706",
+      "mp3_path": "5/stargarden-step_off-01-from_here_to_there-59-88.mp3",
+      "artist": "Stargarden",
+      "artist_id": "stargarden"
+    },
+    {
+      "index": 181,
+      "clip_id": "17120",
+      "mp3_path": "d/ambient_teknology-the_all_seeing_eye_project-04-confusion_says-117-146.mp3",
+      "artist": "Ambient Teknology",
+      "artist_id": "ambient teknology"
+    },
+    {
+      "index": 182,
+      "clip_id": "17210",
+      "mp3_path": "d/paul_avgerinos-maya__the_great_katun-04-dawn_of_the_gods_part_4-262-291.mp3",
+      "artist": "Paul Avgerinos",
+      "artist_id": "paul avgerinos"
+    },
+    {
+      "index": 183,
+      "clip_id": "17241",
+      "mp3_path": "2/saros-soundscapes-04-deja_vu-146-175.mp3",
+      "artist": "Saros",
+      "artist_id": "saros"
+    },
+    {
+      "index": 184,
+      "clip_id": "17252",
+      "mp3_path": "6/the_kokoon-erase-04-delicate-88-117.mp3",
+      "artist": "The Kokoon",
+      "artist_id": "the kokoon"
+    },
+    {
+      "index": 185,
+      "clip_id": "17305",
+      "mp3_path": "f/thursday_group-first_album-04-doing_the_the_clown-117-146.mp3",
+      "artist": "Thursday Group",
+      "artist_id": "thursday group"
+    },
+    {
+      "index": 186,
+      "clip_id": "17313",
+      "mp3_path": "f/thursday_group-first_album-04-doing_the_the_clown-349-378.mp3",
+      "artist": "Thursday Group",
+      "artist_id": "thursday group"
+    },
+    {
+      "index": 187,
+      "clip_id": "17326",
+      "mp3_path": "4/trip_wamsley-its_better_this_way-04-dont_do_me_any_favors-117-146.mp3",
+      "artist": "Trip Wamsley",
+      "artist_id": "trip wamsley"
+    },
+    {
+      "index": 188,
+      "clip_id": "174",
+      "mp3_path": "a/liquid_zen-magic_midsummer-01-4_oclock_sunny_and_hot-88-117.mp3",
+      "artist": "Liquid Zen",
+      "artist_id": "liquid zen"
+    },
+    {
+      "index": 189,
+      "clip_id": "17524",
+      "mp3_path": "5/rapoon-cidar-04-estuary-30-59.mp3",
+      "artist": "Rapoon",
+      "artist_id": "rapoon"
+    },
+    {
+      "index": 190,
+      "clip_id": "17531",
+      "mp3_path": "5/rapoon-cidar-04-estuary-233-262.mp3",
+      "artist": "Rapoon",
+      "artist_id": "rapoon"
+    },
+    {
+      "index": 191,
+      "clip_id": "17532",
+      "mp3_path": "7/american_bach_soloists-j_s__bach__mass_in_b_minor_cd2-04-et_incarnatus_est-0-29.mp3",
+      "artist": "American Bach Soloists",
+      "artist_id": "american bach soloists"
+    },
+    {
+      "index": 192,
+      "clip_id": "17577",
+      "mp3_path": "2/indidginus-seismic-04-extinction-407-436.mp3",
+      "artist": "Indidginus",
+      "artist_id": "indidginus"
+    },
+    {
+      "index": 193,
+      "clip_id": "17615",
+      "mp3_path": "5/mrdc-plethora-04-fastcars-30-59.mp3",
+      "artist": "MRDC",
+      "artist_id": "mrdc"
+    },
+    {
+      "index": 194,
+      "clip_id": "1763",
+      "mp3_path": "8/tim_rayborn-veils_of_light-01-gilim-175-204.mp3",
+      "artist": "Tim Rayborn",
+      "artist_id": "tim rayborn"
+    },
+    {
+      "index": 195,
+      "clip_id": "17635",
+      "mp3_path": "1/suzanne_teng-mystic_journey-04-fertile_crescent-88-117.mp3",
+      "artist": "Suzanne Teng",
+      "artist_id": "suzanne teng"
+    },
+    {
+      "index": 196,
+      "clip_id": "17639",
+      "mp3_path": "1/suzanne_teng-mystic_journey-04-fertile_crescent-204-233.mp3",
+      "artist": "Suzanne Teng",
+      "artist_id": "suzanne teng"
+    },
+    {
+      "index": 197,
+      "clip_id": "1766",
+      "mp3_path": "8/tim_rayborn-veils_of_light-01-gilim-262-291.mp3",
+      "artist": "Tim Rayborn",
+      "artist_id": "tim rayborn"
+    },
+    {
+      "index": 198,
+      "clip_id": "17728",
+      "mp3_path": "8/skitzo-hellavator_musick-04-frozen_dead-146-175.mp3",
+      "artist": "Skitzo",
+      "artist_id": "skitzo"
+    },
+    {
+      "index": 199,
+      "clip_id": "17733",
+      "mp3_path": "8/skitzo-hellavator_musick-04-frozen_dead-291-320.mp3",
+      "artist": "Skitzo",
+      "artist_id": "skitzo"
+    },
+    {
+      "index": 200,
+      "clip_id": "17753",
+      "mp3_path": "4/tim_rayborn-the_path_beyond-04-galata-88-117.mp3",
+      "artist": "Tim Rayborn",
+      "artist_id": "tim rayborn"
+    },
+    {
+      "index": 201,
+      "clip_id": "17786",
+      "mp3_path": "f/tilopa-turkishauch-04-glasrohrstuck-30-59.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 202,
+      "clip_id": "17787",
+      "mp3_path": "f/tilopa-turkishauch-04-glasrohrstuck-59-88.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 203,
+      "clip_id": "17798",
+      "mp3_path": "f/tilopa-turkishauch-04-glasrohrstuck-378-407.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 204,
+      "clip_id": "17809",
+      "mp3_path": "6/falik-streaks_and_strokes-04-gnomechucks-175-204.mp3",
+      "artist": "Falik",
+      "artist_id": "falik"
+    },
+    {
+      "index": 205,
+      "clip_id": "17811",
+      "mp3_path": "6/falik-streaks_and_strokes-04-gnomechucks-233-262.mp3",
+      "artist": "Falik",
+      "artist_id": "falik"
+    },
+    {
+      "index": 206,
+      "clip_id": "17853",
+      "mp3_path": "4/magnatune-romantic_dinner_classical_compilation-04-gonzalo_x_ruiz__adagio_sonata_for_oboe_and_basso_continuo_in_f_besozzi-349-378.mp3",
+      "artist": "Magnatune",
+      "artist_id": "magnatune"
+    },
+    {
+      "index": 207,
+      "clip_id": "17862",
+      "mp3_path": "4/burnshee_thornside-the_art_of_not_blending_in-04-goodbye_on_a_beautiful_day-146-175.mp3",
+      "artist": "Burnshee Thornside",
+      "artist_id": "burnshee thornside"
+    },
+    {
+      "index": 208,
+      "clip_id": "18042",
+      "mp3_path": "9/william_brooks-silent_wings-04-i_have_a_mind-117-146.mp3",
+      "artist": "William Brooks",
+      "artist_id": "william brooks"
+    },
+    {
+      "index": 209,
+      "clip_id": "18053",
+      "mp3_path": "2/aba_structure-tektonik_illusion-04-im_alive-233-262.mp3",
+      "artist": "ABA STRUCTURE",
+      "artist_id": "aba structure"
+    },
+    {
+      "index": 210,
+      "clip_id": "1806",
+      "mp3_path": "f/jackalopes-jacksploitation-01-good_clean_fun_laundromat-146-175.mp3",
+      "artist": "Jackalopes",
+      "artist_id": "jackalopes"
+    },
+    {
+      "index": 211,
+      "clip_id": "18060",
+      "mp3_path": "e/yongen-moonrise-04-im_in_love-88-117.mp3",
+      "artist": "Yongen",
+      "artist_id": "yongen"
+    },
+    {
+      "index": 212,
+      "clip_id": "18083",
+      "mp3_path": "7/wicked_boy-the_treatment-04-image_within_you-175-204.mp3",
+      "artist": "Wicked boy",
+      "artist_id": "wicked boy"
+    },
+    {
+      "index": 213,
+      "clip_id": "18120",
+      "mp3_path": "d/the_west_exit-nocturne-04-interlude_1-0-29.mp3",
+      "artist": "The West Exit",
+      "artist_id": "the west exit"
+    },
+    {
+      "index": 214,
+      "clip_id": "18135",
+      "mp3_path": "6/mercy_machine-in_your_bed__instrumental_mix-04-invisible_instrumental_mix-117-146.mp3",
+      "artist": "Mercy Machine",
+      "artist_id": "mercy machine"
+    },
+    {
+      "index": 215,
+      "clip_id": "18147",
+      "mp3_path": "8/mercy_machine-in_your_bed__the_remixes-04-invisible_laidback_mix-175-204.mp3",
+      "artist": "Mercy Machine",
+      "artist_id": "mercy machine"
+    },
+    {
+      "index": 216,
+      "clip_id": "18190",
+      "mp3_path": "b/seismic_anamoly-dead_mans_hand-04-jack_rabbit-233-262.mp3",
+      "artist": "Seismic Anamoly",
+      "artist_id": "seismic anamoly"
+    },
+    {
+      "index": 217,
+      "clip_id": "18215",
+      "mp3_path": "c/seismic_anamoly-ramifications-04-julies_tune-378-407.mp3",
+      "artist": "Seismic Anamoly",
+      "artist_id": "seismic anamoly"
+    },
+    {
+      "index": 218,
+      "clip_id": "18217",
+      "mp3_path": "c/seismic_anamoly-ramifications-04-julies_tune-436-465.mp3",
+      "artist": "Seismic Anamoly",
+      "artist_id": "seismic anamoly"
+    },
+    {
+      "index": 219,
+      "clip_id": "18221",
+      "mp3_path": "c/seismic_anamoly-ramifications-04-julies_tune-552-581.mp3",
+      "artist": "Seismic Anamoly",
+      "artist_id": "seismic anamoly"
+    },
+    {
+      "index": 220,
+      "clip_id": "18280",
+      "mp3_path": "4/tilopa-kyotaku_live-04-kyushu_reibo-291-320.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 221,
+      "clip_id": "18323",
+      "mp3_path": "b/falik-the_ballad_of_el_efe-04-le_dolce_llama-88-117.mp3",
+      "artist": "Falik",
+      "artist_id": "falik"
+    },
+    {
+      "index": 222,
+      "clip_id": "18327",
+      "mp3_path": "b/falik-the_ballad_of_el_efe-04-le_dolce_llama-204-233.mp3",
+      "artist": "Falik",
+      "artist_id": "falik"
+    },
+    {
+      "index": 223,
+      "clip_id": "18354",
+      "mp3_path": "9/musica_franca-corrette__le_phenix__les_delices_de_la_solitude-04-les_delices_de_la_solitude_op__20__sonata_i_in_f_major__allegro-0-29.mp3",
+      "artist": "Musica Franca",
+      "artist_id": "musica franca"
+    },
+    {
+      "index": 224,
+      "clip_id": "184",
+      "mp3_path": "f/pain_factor-8_seconds-01-8_seconds-59-88.mp3",
+      "artist": "Pain Factor",
+      "artist_id": "pain factor"
+    },
+    {
+      "index": 225,
+      "clip_id": "18430",
+      "mp3_path": "9/domased-slowdown-04-long_journey-233-262.mp3",
+      "artist": "Domased",
+      "artist_id": "domased"
+    },
+    {
+      "index": 226,
+      "clip_id": "18438",
+      "mp3_path": "9/strojovna_07-iii-04-loopatchka-175-204.mp3",
+      "artist": "Strojovna 07",
+      "artist_id": "strojovna 07"
+    },
+    {
+      "index": 227,
+      "clip_id": "18459",
+      "mp3_path": "8/sun_palace-give_me_a_perfect_world-04-love_saves-146-175.mp3",
+      "artist": "Sun Palace",
+      "artist_id": "sun palace"
+    },
+    {
+      "index": 228,
+      "clip_id": "18542",
+      "mp3_path": "f/three_holies_church_choristers-the_hymns_of_the_ancient_church-04-meet_it_is_tune_hymn_demetre-146-175.mp3",
+      "artist": "Three Holies Church Choristers",
+      "artist_id": "three holies church choristers"
+    },
+    {
+      "index": 229,
+      "clip_id": "18546",
+      "mp3_path": "1/touchinggrace-the_reformation_sessions-04-melon_tropic_sunrise-59-88.mp3",
+      "artist": "touchingGrace",
+      "artist_id": "touchinggrace"
+    },
+    {
+      "index": 230,
+      "clip_id": "18629",
+      "mp3_path": "8/justin_bianco-phoenix-04-mother-59-88.mp3",
+      "artist": "Justin Bianco",
+      "artist_id": "justin bianco"
+    },
+    {
+      "index": 231,
+      "clip_id": "18635",
+      "mp3_path": "a/tilopa-by_the_way-04-moving_on-30-59.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 232,
+      "clip_id": "18670",
+      "mp3_path": "7/solace-vadalna-04-natarajabasaal_mix-88-117.mp3",
+      "artist": "Solace",
+      "artist_id": "solace"
+    },
+    {
+      "index": 233,
+      "clip_id": "18707",
+      "mp3_path": "f/kenji_williams-faces_of_epiphany-04-never_look_away-88-117.mp3",
+      "artist": "Kenji Williams",
+      "artist_id": "kenji williams"
+    },
+    {
+      "index": 234,
+      "clip_id": "18741",
+      "mp3_path": "d/utopia_banished-night_of_the_black_wyvern-04-night_of_the_black_wyvern-204-233.mp3",
+      "artist": "Utopia Banished",
+      "artist_id": "utopia banished"
+    },
+    {
+      "index": 235,
+      "clip_id": "18747",
+      "mp3_path": "d/shiva_in_exile-ethnic-04-nightheat-0-29.mp3",
+      "artist": "Shiva In Exile",
+      "artist_id": "shiva in exile"
+    },
+    {
+      "index": 236,
+      "clip_id": "18805",
+      "mp3_path": "e/magnatune_compilation-high_energy_rock_and_roll-04-nova_express_gimme_some_more-146-175.mp3",
+      "artist": "Magnatune Compilation",
+      "artist_id": "magnatune compilation"
+    },
+    {
+      "index": 237,
+      "clip_id": "1884",
+      "mp3_path": "a/dac_crowell-the_mechanism_of_starlight-01-helios_course-291-320.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 238,
+      "clip_id": "18901",
+      "mp3_path": "a/falik-dreams_from_the_machine-04-pans_procession-88-117.mp3",
+      "artist": "Falik",
+      "artist_id": "falik"
+    },
+    {
+      "index": 239,
+      "clip_id": "18940",
+      "mp3_path": "f/ehren_starks-lines_build_walls-04-paper_lights-117-146.mp3",
+      "artist": "Ehren Starks",
+      "artist_id": "ehren starks"
+    },
+    {
+      "index": 240,
+      "clip_id": "18956",
+      "mp3_path": "9/vito_paternoster-cd2bach_sonatas_and_partitas_for_solo_violin-04-partita_seconda_in_sol_minore__giga-88-117.mp3",
+      "artist": "Vito Paternoster",
+      "artist_id": "vito paternoster"
+    },
+    {
+      "index": 241,
+      "clip_id": "18971",
+      "mp3_path": "a/somadrone-trancelucent-04-patterns-0-29.mp3",
+      "artist": "Somadrone",
+      "artist_id": "somadrone"
+    },
+    {
+      "index": 242,
+      "clip_id": "19010",
+      "mp3_path": "5/kammen___swan-wild_wood-04-petticoat_set-30-59.mp3",
+      "artist": "Kammen & Swan",
+      "artist_id": "kammen & swan"
+    },
+    {
+      "index": 243,
+      "clip_id": "1904",
+      "mp3_path": "a/dac_crowell-the_mechanism_of_starlight-01-helios_course-871-900.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 244,
+      "clip_id": "19072",
+      "mp3_path": "4/mutandina-mutandina-04-portate_bien-117-146.mp3",
+      "artist": "Mutandina",
+      "artist_id": "mutandina"
+    },
+    {
+      "index": 245,
+      "clip_id": "19074",
+      "mp3_path": "4/mutandina-mutandina-04-portate_bien-175-204.mp3",
+      "artist": "Mutandina",
+      "artist_id": "mutandina"
+    },
+    {
+      "index": 246,
+      "clip_id": "191",
+      "mp3_path": "9/the_seldon_plan-making_circles-01-a_rhyming_dictionary-59-88.mp3",
+      "artist": "The Seldon Plan",
+      "artist_id": "the seldon plan"
+    },
+    {
+      "index": 247,
+      "clip_id": "19251",
+      "mp3_path": "0/american_bach_soloists-joseph_haydn__masses-04-quoniam_tu_solus__allegro-88-117.mp3",
+      "artist": "American Bach Soloists",
+      "artist_id": "american bach soloists"
+    },
+    {
+      "index": 248,
+      "clip_id": "19302",
+      "mp3_path": "d/rapoon-vernal_crossing-04-rains-0-29.mp3",
+      "artist": "Rapoon",
+      "artist_id": "rapoon"
+    },
+    {
+      "index": 249,
+      "clip_id": "19320",
+      "mp3_path": "3/etherfysh-box_of_fysh-04-rama-175-204.mp3",
+      "artist": "Etherfysh",
+      "artist_id": "etherfysh"
+    },
+    {
+      "index": 250,
+      "clip_id": "19322",
+      "mp3_path": "3/etherfysh-box_of_fysh-04-rama-233-262.mp3",
+      "artist": "Etherfysh",
+      "artist_id": "etherfysh"
+    },
+    {
+      "index": 251,
+      "clip_id": "19327",
+      "mp3_path": "3/etherfysh-box_of_fysh-04-rama-378-407.mp3",
+      "artist": "Etherfysh",
+      "artist_id": "etherfysh"
+    },
+    {
+      "index": 252,
+      "clip_id": "1933",
+      "mp3_path": "3/spinecar-autophile-01-home-30-59.mp3",
+      "artist": "Spinecar",
+      "artist_id": "spinecar"
+    },
+    {
+      "index": 253,
+      "clip_id": "19419",
+      "mp3_path": "a/electric_frankenstein-the_time_is_now-04-right_on_target-146-175.mp3",
+      "artist": "Electric Frankenstein",
+      "artist_id": "electric frankenstein"
+    },
+    {
+      "index": 254,
+      "clip_id": "19422",
+      "mp3_path": "5/cheryl_ann_fulton-the_once_and_future_harp-04-romanesca-59-88.mp3",
+      "artist": "Cheryl Ann Fulton",
+      "artist_id": "cheryl ann fulton"
+    },
+    {
+      "index": 255,
+      "clip_id": "19498",
+      "mp3_path": "f/ivilion-sartinal-04-sartinal_ii-117-146.mp3",
+      "artist": "Ivilion",
+      "artist_id": "ivilion"
+    },
+    {
+      "index": 256,
+      "clip_id": "1951",
+      "mp3_path": "4/seismic_anamoly-sweet_rock_candy-01-howl_at_the_moon-146-175.mp3",
+      "artist": "Seismic Anamoly",
+      "artist_id": "seismic anamoly"
+    },
+    {
+      "index": 257,
+      "clip_id": "19521",
+      "mp3_path": "7/aba_structure-epic-04-scrambling_to_stay_ahead-262-291.mp3",
+      "artist": "ABA STRUCTURE",
+      "artist_id": "aba structure"
+    },
+    {
+      "index": 258,
+      "clip_id": "19538",
+      "mp3_path": "f/magnatune-relaxation_spa-04-secret_solution_michael_masley-59-88.mp3",
+      "artist": "Magnatune",
+      "artist_id": "magnatune"
+    },
+    {
+      "index": 259,
+      "clip_id": "19546",
+      "mp3_path": "0/chris_harvey-the_white_sail-04-secrets_from_the_screen-88-117.mp3",
+      "artist": "Chris Harvey",
+      "artist_id": "chris harvey"
+    },
+    {
+      "index": 260,
+      "clip_id": "19569",
+      "mp3_path": "d/tim_rayborn-chordae-04-sempr_alegria-233-262.mp3",
+      "artist": "Tim Rayborn",
+      "artist_id": "tim rayborn"
+    },
+    {
+      "index": 261,
+      "clip_id": "19601",
+      "mp3_path": "9/suzanne_teng-enchanted_wind-04-septembers_angels-262-291.mp3",
+      "artist": "Suzanne Teng",
+      "artist_id": "suzanne teng"
+    },
+    {
+      "index": 262,
+      "clip_id": "19602",
+      "mp3_path": "9/suzanne_teng-enchanted_wind-04-septembers_angels-291-320.mp3",
+      "artist": "Suzanne Teng",
+      "artist_id": "suzanne teng"
+    },
+    {
+      "index": 263,
+      "clip_id": "19603",
+      "mp3_path": "9/suzanne_teng-enchanted_wind-04-septembers_angels-320-349.mp3",
+      "artist": "Suzanne Teng",
+      "artist_id": "suzanne teng"
+    },
+    {
+      "index": 264,
+      "clip_id": "19637",
+      "mp3_path": "7/shane_jackman-equilibrium-04-set_fire_to_the_city-59-88.mp3",
+      "artist": "Shane Jackman",
+      "artist_id": "shane jackman"
+    },
+    {
+      "index": 265,
+      "clip_id": "19737",
+      "mp3_path": "f/hans_christian-surrender-04-shrouded-175-204.mp3",
+      "artist": "Hans Christian",
+      "artist_id": "hans christian"
+    },
+    {
+      "index": 266,
+      "clip_id": "19744",
+      "mp3_path": "2/antiguru-fall_submissions-04-sideways-88-117.mp3",
+      "artist": "AntiGuru",
+      "artist_id": "antiguru"
+    },
+    {
+      "index": 267,
+      "clip_id": "19764",
+      "mp3_path": "5/paul_avgerinos-muse_of_the_round_sky-04-signs_and_a_vision-175-204.mp3",
+      "artist": "Paul Avgerinos",
+      "artist_id": "paul avgerinos"
+    },
+    {
+      "index": 268,
+      "clip_id": "19929",
+      "mp3_path": "e/seth_carlin-mozart_in_the_age_of_enlightenment-04-sonata_in_a_minor__kv_310__allegro_maestoso_wolfgang_amadeus_mozart-59-88.mp3",
+      "artist": "Seth Carlin",
+      "artist_id": "seth carlin"
+    },
+    {
+      "index": 269,
+      "clip_id": "19962",
+      "mp3_path": "d/seth_and_maryse_carlin-schubert__music_for_fortepiano_four_hands-04-sonata_in_c_major_grand_duo__allegro_vivace-436-465.mp3",
+      "artist": "Seth and Maryse Carlin",
+      "artist_id": "seth and maryse carlin"
+    },
+    {
+      "index": 270,
+      "clip_id": "19963",
+      "mp3_path": "d/seth_and_maryse_carlin-schubert__music_for_fortepiano_four_hands-04-sonata_in_c_major_grand_duo__allegro_vivace-465-494.mp3",
+      "artist": "Seth and Maryse Carlin",
+      "artist_id": "seth and maryse carlin"
+    },
+    {
+      "index": 271,
+      "clip_id": "1998",
+      "mp3_path": "a/tilopa-pictures_of_silence-01-ichi-0-29.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 272,
+      "clip_id": "19989",
+      "mp3_path": "4/seth_carlin-schubert__works_for_solo_fortepiano-04-sonata_in_eflat_major_opus_posth__122__allegro_moderato-146-175.mp3",
+      "artist": "Seth Carlin",
+      "artist_id": "seth carlin"
+    },
+    {
+      "index": 273,
+      "clip_id": "20079",
+      "mp3_path": "c/jamie_janover-now_center_of_time-04-steep_trees-88-117.mp3",
+      "artist": "Jamie Janover",
+      "artist_id": "jamie janover"
+    },
+    {
+      "index": 274,
+      "clip_id": "20170",
+      "mp3_path": "b/hanneke_van_proosdij-harpsichord_suites_of_chambonnieres-04-suite_in_d_minor__pavanne-262-291.mp3",
+      "artist": "Hanneke van Proosdij",
+      "artist_id": "hanneke van proosdij"
+    },
+    {
+      "index": 275,
+      "clip_id": "20209",
+      "mp3_path": "b/rob_costlow-sophomore_jinx-04-summer_garden-88-117.mp3",
+      "artist": "Rob Costlow",
+      "artist_id": "rob costlow"
+    },
+    {
+      "index": 276,
+      "clip_id": "2025",
+      "mp3_path": "a/falik-dreams_from_the_machine-01-ika-175-204.mp3",
+      "artist": "Falik",
+      "artist_id": "falik"
+    },
+    {
+      "index": 277,
+      "clip_id": "20346",
+      "mp3_path": "6/mercy_machine-the_devil_i_know-04-the_devil_i_know-0-29.mp3",
+      "artist": "Mercy Machine",
+      "artist_id": "mercy machine"
+    },
+    {
+      "index": 278,
+      "clip_id": "20393",
+      "mp3_path": "4/the_marginal_prophets-bohemian_rap_cd-04-the_ladies-117-146.mp3",
+      "artist": "The Marginal Prophets",
+      "artist_id": "the marginal prophets"
+    },
+    {
+      "index": 279,
+      "clip_id": "20458",
+      "mp3_path": "e/shira_kammen-music_of_waters-04-the_water_is_wide-146-175.mp3",
+      "artist": "Shira Kammen",
+      "artist_id": "shira kammen"
+    },
+    {
+      "index": 280,
+      "clip_id": "20465",
+      "mp3_path": "e/shira_kammen-music_of_waters-04-the_water_is_wide-349-378.mp3",
+      "artist": "Shira Kammen",
+      "artist_id": "shira kammen"
+    },
+    {
+      "index": 281,
+      "clip_id": "20481",
+      "mp3_path": "4/human_response-delirious-04-theoria-59-88.mp3",
+      "artist": "Human Response",
+      "artist_id": "human response"
+    },
+    {
+      "index": 282,
+      "clip_id": "20497",
+      "mp3_path": "e/atomic_opera-penguin_dust-04-thirst-175-204.mp3",
+      "artist": "Atomic Opera",
+      "artist_id": "atomic opera"
+    },
+    {
+      "index": 283,
+      "clip_id": "20523",
+      "mp3_path": "b/magnatune_compilation-rock-04-tom_paul_its_an_easy_life-175-204.mp3",
+      "artist": "Magnatune Compilation",
+      "artist_id": "magnatune compilation"
+    },
+    {
+      "index": 284,
+      "clip_id": "20528",
+      "mp3_path": "9/the_seldon_plan-making_circles-04-top_left_corner-117-146.mp3",
+      "artist": "The Seldon Plan",
+      "artist_id": "the seldon plan"
+    },
+    {
+      "index": 285,
+      "clip_id": "20565",
+      "mp3_path": "6/barry_phillips-trad-04-trogdorpolska-117-146.mp3",
+      "artist": "Barry Phillips",
+      "artist_id": "barry phillips"
+    },
+    {
+      "index": 286,
+      "clip_id": "2057",
+      "mp3_path": "f/thursday_group-first_album-01-innocent_murmur-146-175.mp3",
+      "artist": "Thursday Group",
+      "artist_id": "thursday group"
+    },
+    {
+      "index": 287,
+      "clip_id": "20575",
+      "mp3_path": "1/spinecar-passive_aggressive-04-true-233-262.mp3",
+      "artist": "Spinecar",
+      "artist_id": "spinecar"
+    },
+    {
+      "index": 288,
+      "clip_id": "20579",
+      "mp3_path": "5/thursday_group-uncle_mean-04-turtle_spin-59-88.mp3",
+      "artist": "Thursday Group",
+      "artist_id": "thursday group"
+    },
+    {
+      "index": 289,
+      "clip_id": "2062",
+      "mp3_path": "f/thursday_group-first_album-01-innocent_murmur-291-320.mp3",
+      "artist": "Thursday Group",
+      "artist_id": "thursday group"
+    },
+    {
+      "index": 290,
+      "clip_id": "20626",
+      "mp3_path": "b/liquid_zen-elements_at_loop_10-04-underwater_equinox-117-146.mp3",
+      "artist": "Liquid Zen",
+      "artist_id": "liquid zen"
+    },
+    {
+      "index": 291,
+      "clip_id": "2063",
+      "mp3_path": "f/thursday_group-first_album-01-innocent_murmur-320-349.mp3",
+      "artist": "Thursday Group",
+      "artist_id": "thursday group"
+    },
+    {
+      "index": 292,
+      "clip_id": "20654",
+      "mp3_path": "a/janine_johnson-chopin_recital-04-variations_on_der_schweitzerbub_kk_iva_no_4-117-146.mp3",
+      "artist": "Janine Johnson",
+      "artist_id": "janine johnson"
+    },
+    {
+      "index": 293,
+      "clip_id": "20670",
+      "mp3_path": "8/magnatune-red_hat_summit_compilation-04-very_large_array__magnified-59-88.mp3",
+      "artist": "Magnatune",
+      "artist_id": "magnatune"
+    },
+    {
+      "index": 294,
+      "clip_id": "20793",
+      "mp3_path": "c/william_brooks-blue_ribbon__the_best_of_william_brooks-04-whose_moon-175-204.mp3",
+      "artist": "William Brooks",
+      "artist_id": "william brooks"
+    },
+    {
+      "index": 295,
+      "clip_id": "20822",
+      "mp3_path": "4/sibelian-the_soul_rush-04-wishfulfilling_jewel-204-233.mp3",
+      "artist": "Sibelian",
+      "artist_id": "sibelian"
+    },
+    {
+      "index": 296,
+      "clip_id": "20840",
+      "mp3_path": "e/heavy_mellow-horizons-04-worm_in_the_woodwork-88-117.mp3",
+      "artist": "Heavy Mellow",
+      "artist_id": "heavy mellow"
+    },
+    {
+      "index": 297,
+      "clip_id": "20853",
+      "mp3_path": "3/sherefe-opium-04-yianni_mou_to-0-29.mp3",
+      "artist": "Sherefe",
+      "artist_id": "sherefe"
+    },
+    {
+      "index": 298,
+      "clip_id": "20882",
+      "mp3_path": "2/jami_sieber-lush_mechanique-04-your_leaving-59-88.mp3",
+      "artist": "Jami Sieber",
+      "artist_id": "jami sieber"
+    },
+    {
+      "index": 299,
+      "clip_id": "20886",
+      "mp3_path": "2/jami_sieber-lush_mechanique-04-your_leaving-175-204.mp3",
+      "artist": "Jami Sieber",
+      "artist_id": "jami sieber"
+    },
+    {
+      "index": 300,
+      "clip_id": "20919",
+      "mp3_path": "9/american_bach_soloists-heinrich_schutz__musicalische_exequien-05-kleine_geistliche_konzerte_swv_310_ich_liege_und_schlafe-175-204.mp3",
+      "artist": "American Bach Soloists",
+      "artist_id": "american bach soloists"
+    },
+    {
+      "index": 301,
+      "clip_id": "20976",
+      "mp3_path": "f/jackalopes-jacksploitation-05-1_percent_muthafucka-30-59.mp3",
+      "artist": "Jackalopes",
+      "artist_id": "jackalopes"
+    },
+    {
+      "index": 302,
+      "clip_id": "21009",
+      "mp3_path": "c/liquid_zen-seventythree-05-30_miles-175-204.mp3",
+      "artist": "Liquid Zen",
+      "artist_id": "liquid zen"
+    },
+    {
+      "index": 303,
+      "clip_id": "21046",
+      "mp3_path": "8/mercy_machine-mercy_machine-05-a_necessary_madness-146-175.mp3",
+      "artist": "Mercy Machine",
+      "artist_id": "mercy machine"
+    },
+    {
+      "index": 304,
+      "clip_id": "2109",
+      "mp3_path": "5/paul_avgerinos-muse_of_the_round_sky-01-invocation-117-146.mp3",
+      "artist": "Paul Avgerinos",
+      "artist_id": "paul avgerinos"
+    },
+    {
+      "index": 305,
+      "clip_id": "21111",
+      "mp3_path": "1/solace-the_gathering_season-05-aenaem-204-233.mp3",
+      "artist": "Solace",
+      "artist_id": "solace"
+    },
+    {
+      "index": 306,
+      "clip_id": "21136",
+      "mp3_path": "9/ya_elah-each_of_us-05-ahava-175-204.mp3",
+      "artist": "Ya Elah",
+      "artist_id": "ya elah"
+    },
+    {
+      "index": 307,
+      "clip_id": "21159",
+      "mp3_path": "d/kitka-wintersongs-05-alilo_georgia-59-88.mp3",
+      "artist": "Kitka",
+      "artist_id": "kitka"
+    },
+    {
+      "index": 308,
+      "clip_id": "21160",
+      "mp3_path": "d/kitka-wintersongs-05-alilo_georgia-88-117.mp3",
+      "artist": "Kitka",
+      "artist_id": "kitka"
+    },
+    {
+      "index": 309,
+      "clip_id": "2117",
+      "mp3_path": "c/liquid_zen-seventythree-01-is_that_called_love-117-146.mp3",
+      "artist": "Liquid Zen",
+      "artist_id": "liquid zen"
+    },
+    {
+      "index": 310,
+      "clip_id": "21189",
+      "mp3_path": "1/william_brooks-karma_dogs-05-alright-117-146.mp3",
+      "artist": "William Brooks",
+      "artist_id": "william brooks"
+    },
+    {
+      "index": 311,
+      "clip_id": "21215",
+      "mp3_path": "7/paul_avgerinos-phos_hilaron-05-anoint_and_cheer-349-378.mp3",
+      "artist": "Paul Avgerinos",
+      "artist_id": "paul avgerinos"
+    },
+    {
+      "index": 312,
+      "clip_id": "21278",
+      "mp3_path": "d/utopia_banished-night_of_the_black_wyvern-05-as_it_descends-88-117.mp3",
+      "artist": "Utopia Banished",
+      "artist_id": "utopia banished"
+    },
+    {
+      "index": 313,
+      "clip_id": "21288",
+      "mp3_path": "6/stargarden-ambient_excursions-05-astral_dub-0-29.mp3",
+      "artist": "Stargarden",
+      "artist_id": "stargarden"
+    },
+    {
+      "index": 314,
+      "clip_id": "21360",
+      "mp3_path": "c/domased-new_memories-05-basic_trance_esence-0-29.mp3",
+      "artist": "Domased",
+      "artist_id": "domased"
+    },
+    {
+      "index": 315,
+      "clip_id": "21438",
+      "mp3_path": "6/sand_craig_and_dornenburg-biber_violin_sonatas-05-biber_rosay_sonata_10_in_g_minor_the_crucifixion-436-465.mp3",
+      "artist": "Sand Craig and Dornenburg",
+      "artist_id": "sand craig and dornenburg"
+    },
+    {
+      "index": 316,
+      "clip_id": "21484",
+      "mp3_path": "d/rapoon-vernal_crossing-05-bol_baya-30-59.mp3",
+      "artist": "Rapoon",
+      "artist_id": "rapoon"
+    },
+    {
+      "index": 317,
+      "clip_id": "21492",
+      "mp3_path": "d/rapoon-vernal_crossing-05-bol_baya-262-291.mp3",
+      "artist": "Rapoon",
+      "artist_id": "rapoon"
+    },
+    {
+      "index": 318,
+      "clip_id": "21561",
+      "mp3_path": "1/etherine-24_days-05-bring_it_down-88-117.mp3",
+      "artist": "Etherine",
+      "artist_id": "etherine"
+    },
+    {
+      "index": 319,
+      "clip_id": "21577",
+      "mp3_path": "3/mandrake_root-the_seventh_mirror-05-build_o_burn-59-88.mp3",
+      "artist": "Mandrake Root",
+      "artist_id": "mandrake root"
+    },
+    {
+      "index": 320,
+      "clip_id": "21608",
+      "mp3_path": "a/tilopa-by_the_way-05-by_the_ganges-117-146.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 321,
+      "clip_id": "21610",
+      "mp3_path": "a/tilopa-by_the_way-05-by_the_ganges-175-204.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 322,
+      "clip_id": "21612",
+      "mp3_path": "a/tilopa-by_the_way-05-by_the_ganges-233-262.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 323,
+      "clip_id": "21624",
+      "mp3_path": "a/tilopa-by_the_way-05-by_the_ganges-581-610.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 324,
+      "clip_id": "21626",
+      "mp3_path": "a/tilopa-by_the_way-05-by_the_ganges-639-668.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 325,
+      "clip_id": "21627",
+      "mp3_path": "a/tilopa-by_the_way-05-by_the_ganges-668-697.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 326,
+      "clip_id": "21631",
+      "mp3_path": "a/tilopa-by_the_way-05-by_the_ganges-784-813.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 327,
+      "clip_id": "21632",
+      "mp3_path": "a/tilopa-by_the_way-05-by_the_ganges-813-842.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 328,
+      "clip_id": "21723",
+      "mp3_path": "f/three_holies_church_choristers-the_hymns_of_the_ancient_church-05-cherubic_hymn_byzantine_chant_bulgarian_tradition-59-88.mp3",
+      "artist": "Three Holies Church Choristers",
+      "artist_id": "three holies church choristers"
+    },
+    {
+      "index": 329,
+      "clip_id": "21795",
+      "mp3_path": "4/paul_avgerinos-sky_of_grace-05-communion-117-146.mp3",
+      "artist": "Paul Avgerinos",
+      "artist_id": "paul avgerinos"
+    },
+    {
+      "index": 330,
+      "clip_id": "21806",
+      "mp3_path": "b/philharmonia_baroque-mozart_orchestral_works-05-concerto_for_flute_and_harp_in_c_major_kv299_allegro-175-204.mp3",
+      "artist": "Philharmonia Baroque",
+      "artist_id": "philharmonia baroque"
+    },
+    {
+      "index": 331,
+      "clip_id": "21887",
+      "mp3_path": "8/william_brooks-buffalo_treason-05-convertible_girls_live-88-117.mp3",
+      "artist": "William Brooks",
+      "artist_id": "william brooks"
+    },
+    {
+      "index": 332,
+      "clip_id": "21897",
+      "mp3_path": "6/curandero-curandero-05-corriendo_juntos-117-146.mp3",
+      "artist": "Curandero",
+      "artist_id": "curandero"
+    },
+    {
+      "index": 333,
+      "clip_id": "21901",
+      "mp3_path": "6/curandero-curandero-05-corriendo_juntos-233-262.mp3",
+      "artist": "Curandero",
+      "artist_id": "curandero"
+    },
+    {
+      "index": 334,
+      "clip_id": "21916",
+      "mp3_path": "6/mercy_machine-the_devil_i_know-05-crooked_ladder-204-233.mp3",
+      "artist": "Mercy Machine",
+      "artist_id": "mercy machine"
+    },
+    {
+      "index": 335,
+      "clip_id": "21921",
+      "mp3_path": "7/american_bach_soloists-j_s__bach__mass_in_b_minor_cd2-05-crucifixus-88-117.mp3",
+      "artist": "American Bach Soloists",
+      "artist_id": "american bach soloists"
+    },
+    {
+      "index": 336,
+      "clip_id": "21972",
+      "mp3_path": "d/paul_avgerinos-balancing_spheres-05-day_dreams__and_thirst_is_quenched-233-262.mp3",
+      "artist": "Paul Avgerinos",
+      "artist_id": "paul avgerinos"
+    },
+    {
+      "index": 337,
+      "clip_id": "22022",
+      "mp3_path": "1/four_stones-chronic_dreams-05-dead_money-175-204.mp3",
+      "artist": "Four Stones",
+      "artist_id": "four stones"
+    },
+    {
+      "index": 338,
+      "clip_id": "22242",
+      "mp3_path": "4/american_bach_soloists-j_s__bach__mass_in_b_minor_cd1-05-et_in_terra_pax-59-88.mp3",
+      "artist": "American Bach Soloists",
+      "artist_id": "american bach soloists"
+    },
+    {
+      "index": 339,
+      "clip_id": "22243",
+      "mp3_path": "4/american_bach_soloists-j_s__bach__mass_in_b_minor_cd1-05-et_in_terra_pax-88-117.mp3",
+      "artist": "American Bach Soloists",
+      "artist_id": "american bach soloists"
+    },
+    {
+      "index": 340,
+      "clip_id": "22280",
+      "mp3_path": "3/spinecar-autophile-05-falling_out-0-29.mp3",
+      "artist": "Spinecar",
+      "artist_id": "spinecar"
+    },
+    {
+      "index": 341,
+      "clip_id": "22286",
+      "mp3_path": "3/spinecar-autophile-05-falling_out-175-204.mp3",
+      "artist": "Spinecar",
+      "artist_id": "spinecar"
+    },
+    {
+      "index": 342,
+      "clip_id": "22292",
+      "mp3_path": "8/sun_palace-give_me_a_perfect_world-05-familiar_voices-117-146.mp3",
+      "artist": "Sun Palace",
+      "artist_id": "sun palace"
+    },
+    {
+      "index": 343,
+      "clip_id": "22306",
+      "mp3_path": "3/jacob_heringman-siena_lute_book-05-fantasia_79_anon-88-117.mp3",
+      "artist": "Jacob Heringman",
+      "artist_id": "jacob heringman"
+    },
+    {
+      "index": 344,
+      "clip_id": "22355",
+      "mp3_path": "c/dj_markitos-inside_your_dreams-05-fantasy-320-349.mp3",
+      "artist": "DJ Markitos",
+      "artist_id": "dj markitos"
+    },
+    {
+      "index": 345,
+      "clip_id": "22358",
+      "mp3_path": "1/zilla-egg-05-favorite_sleeve-59-88.mp3",
+      "artist": "Zilla",
+      "artist_id": "zilla"
+    },
+    {
+      "index": 346,
+      "clip_id": "2239",
+      "mp3_path": "1/william_brooks-karma_dogs-01-karma_dogs-88-117.mp3",
+      "artist": "William Brooks",
+      "artist_id": "william brooks"
+    },
+    {
+      "index": 347,
+      "clip_id": "22410",
+      "mp3_path": "d/paul_avgerinos-words_touch-05-floating_clouds-59-88.mp3",
+      "artist": "Paul Avgerinos",
+      "artist_id": "paul avgerinos"
+    },
+    {
+      "index": 348,
+      "clip_id": "22438",
+      "mp3_path": "d/various_artists-the_art_of_persuasion-05-follow_your_bliss_paul_avgerinos-175-204.mp3",
+      "artist": "Various Artists",
+      "artist_id": "various artists"
+    },
+    {
+      "index": 349,
+      "clip_id": "22442",
+      "mp3_path": "d/various_artists-the_art_of_persuasion-05-follow_your_bliss_paul_avgerinos-291-320.mp3",
+      "artist": "Various Artists",
+      "artist_id": "various artists"
+    },
+    {
+      "index": 350,
+      "clip_id": "22458",
+      "mp3_path": "5/trancevision-lemuria-05-free_me-175-204.mp3",
+      "artist": "TranceVision",
+      "artist_id": "trancevision"
+    },
+    {
+      "index": 351,
+      "clip_id": "22496",
+      "mp3_path": "4/the_wretch-cyst-05-frozen_love-59-88.mp3",
+      "artist": "The Wretch",
+      "artist_id": "the wretch"
+    },
+    {
+      "index": 352,
+      "clip_id": "22536",
+      "mp3_path": "6/philharmonia_baroque-rameau_and_leclair-05-gavottes__air_pour_les_pagodes__contredanse_en_roundeau_rameau_les_paladins-320-349.mp3",
+      "artist": "Philharmonia Baroque",
+      "artist_id": "philharmonia baroque"
+    },
+    {
+      "index": 353,
+      "clip_id": "22543",
+      "mp3_path": "9/american_baroque-dances_and_suites_of_rameau_and_couperin-05-gavottes_suite_from_les_fetes_dhebe_rameau-117-146.mp3",
+      "artist": "American Baroque",
+      "artist_id": "american baroque"
+    },
+    {
+      "index": 354,
+      "clip_id": "22620",
+      "mp3_path": "4/magnatune-romantic_dinner_classical_compilation-05-gonzalo_x_ruiz__andante_sonata_for_oboe_and_bassoc_continuo_in_g_major_sammartini-436-465.mp3",
+      "artist": "Magnatune",
+      "artist_id": "magnatune"
+    },
+    {
+      "index": 355,
+      "clip_id": "22642",
+      "mp3_path": "1/richard_savino-murcia__danza_y_diferencias-05-grave-59-88.mp3",
+      "artist": "Richard Savino",
+      "artist_id": "richard savino"
+    },
+    {
+      "index": 356,
+      "clip_id": "22653",
+      "mp3_path": "2/burnshee_thornside-blues_and_misc-05-hakeem-88-117.mp3",
+      "artist": "Burnshee Thornside",
+      "artist_id": "burnshee thornside"
+    },
+    {
+      "index": 357,
+      "clip_id": "22656",
+      "mp3_path": "2/burnshee_thornside-blues_and_misc-05-hakeem-175-204.mp3",
+      "artist": "Burnshee Thornside",
+      "artist_id": "burnshee thornside"
+    },
+    {
+      "index": 358,
+      "clip_id": "22782",
+      "mp3_path": "9/wicked_boy-chemistry-05-i_am_an_old_mam-146-175.mp3",
+      "artist": "Wicked boy",
+      "artist_id": "wicked boy"
+    },
+    {
+      "index": 359,
+      "clip_id": "22848",
+      "mp3_path": "2/claire_fitch-ambiencellist-05-ice_field-30-59.mp3",
+      "artist": "Claire Fitch",
+      "artist_id": "claire fitch"
+    },
+    {
+      "index": 360,
+      "clip_id": "22880",
+      "mp3_path": "c/glen_bledsoe-up_and_down-05-invention_no__3-59-88.mp3",
+      "artist": "Glen Bledsoe",
+      "artist_id": "glen bledsoe"
+    },
+    {
+      "index": 361,
+      "clip_id": "22935",
+      "mp3_path": "8/kenji_williams-worldspirit_soundtrack-05-journey-88-117.mp3",
+      "artist": "Kenji Williams",
+      "artist_id": "kenji williams"
+    },
+    {
+      "index": 362,
+      "clip_id": "2296",
+      "mp3_path": "e/tilopa-out_of_the_blue-01-kyopianosus-117-146.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 363,
+      "clip_id": "22967",
+      "mp3_path": "b/seismic_anamoly-dead_mans_hand-05-judees_tune-0-29.mp3",
+      "artist": "Seismic Anamoly",
+      "artist_id": "seismic anamoly"
+    },
+    {
+      "index": 364,
+      "clip_id": "23007",
+      "mp3_path": "8/tim_rayborn-veils_of_light-05-kashik-320-349.mp3",
+      "artist": "Tim Rayborn",
+      "artist_id": "tim rayborn"
+    },
+    {
+      "index": 365,
+      "clip_id": "23033",
+      "mp3_path": "4/seismic_anamoly-sweet_rock_candy-05-kick_in_tha_nuts-59-88.mp3",
+      "artist": "Seismic Anamoly",
+      "artist_id": "seismic anamoly"
+    },
+    {
+      "index": 366,
+      "clip_id": "23050",
+      "mp3_path": "4/skitzo-babblesick-05-kill_with_a_vengeance-59-88.mp3",
+      "artist": "Skitzo",
+      "artist_id": "skitzo"
+    },
+    {
+      "index": 367,
+      "clip_id": "23054",
+      "mp3_path": "4/skitzo-babblesick-05-kill_with_a_vengeance-175-204.mp3",
+      "artist": "Skitzo",
+      "artist_id": "skitzo"
+    },
+    {
+      "index": 368,
+      "clip_id": "23065",
+      "mp3_path": "2/solace-ahsas-05-kronos_84_debke_wahda_tawila-117-146.mp3",
+      "artist": "Solace",
+      "artist_id": "solace"
+    },
+    {
+      "index": 369,
+      "clip_id": "23107",
+      "mp3_path": "4/tilopa-kyotaku_live-05-kyo_rei-378-407.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 370,
+      "clip_id": "23117",
+      "mp3_path": "4/tilopa-kyotaku_live-05-kyo_rei-668-697.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 371,
+      "clip_id": "2314",
+      "mp3_path": "4/american_bach_soloists-j_s__bach__mass_in_b_minor_cd1-01-kyrie_eleison-30-59.mp3",
+      "artist": "American Bach Soloists",
+      "artist_id": "american bach soloists"
+    },
+    {
+      "index": 372,
+      "clip_id": "2324",
+      "mp3_path": "4/american_bach_soloists-j_s__bach__mass_in_b_minor_cd1-01-kyrie_eleison-320-349.mp3",
+      "artist": "American Bach Soloists",
+      "artist_id": "american bach soloists"
+    },
+    {
+      "index": 373,
+      "clip_id": "23271",
+      "mp3_path": "1/dac_crowell-sferica-05-lhasa_diapason-378-407.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 374,
+      "clip_id": "23274",
+      "mp3_path": "1/dac_crowell-sferica-05-lhasa_diapason-465-494.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 375,
+      "clip_id": "23282",
+      "mp3_path": "1/dac_crowell-sferica-05-lhasa_diapason-697-726.mp3",
+      "artist": "DAC Crowell",
+      "artist_id": "dac crowell"
+    },
+    {
+      "index": 376,
+      "clip_id": "23289",
+      "mp3_path": "1/suzanne_teng-mystic_journey-05-lhasa_love-59-88.mp3",
+      "artist": "Suzanne Teng",
+      "artist_id": "suzanne teng"
+    },
+    {
+      "index": 377,
+      "clip_id": "23393",
+      "mp3_path": "0/satori-sounds_for_meditation-05-meditation_5-117-146.mp3",
+      "artist": "Satori",
+      "artist_id": "satori"
+    },
+    {
+      "index": 378,
+      "clip_id": "23402",
+      "mp3_path": "0/satori-sounds_for_meditation-05-meditation_5-378-407.mp3",
+      "artist": "Satori",
+      "artist_id": "satori"
+    },
+    {
+      "index": 379,
+      "clip_id": "23451",
+      "mp3_path": "9/etherine-gleam-05-modulation-204-233.mp3",
+      "artist": "Etherine",
+      "artist_id": "etherine"
+    },
+    {
+      "index": 380,
+      "clip_id": "23488",
+      "mp3_path": "2/magnatune_compilation-electronica-05-monoide_first_love-378-407.mp3",
+      "artist": "Magnatune Compilation",
+      "artist_id": "magnatune compilation"
+    },
+    {
+      "index": 381,
+      "clip_id": "23516",
+      "mp3_path": "e/sun_palace-into_heaven-05-my_fortune-0-29.mp3",
+      "artist": "Sun Palace",
+      "artist_id": "sun palace"
+    },
+    {
+      "index": 382,
+      "clip_id": "23532",
+      "mp3_path": "8/mercy_machine-in_your_bed__the_remixes-05-my_joan_of_arc_my_joan_of_dark_mix-320-349.mp3",
+      "artist": "Mercy Machine",
+      "artist_id": "mercy machine"
+    },
+    {
+      "index": 383,
+      "clip_id": "23593",
+      "mp3_path": "1/touchinggrace-the_reformation_sessions-05-new_delhi_breakdown-465-494.mp3",
+      "artist": "touchingGrace",
+      "artist_id": "touchinggrace"
+    },
+    {
+      "index": 384,
+      "clip_id": "23606",
+      "mp3_path": "b/wicked_allstars-dark_clouds-05-new_idm-59-88.mp3",
+      "artist": "Wicked Allstars",
+      "artist_id": "wicked allstars"
+    },
+    {
+      "index": 385,
+      "clip_id": "23627",
+      "mp3_path": "d/paul_avgerinos-maya__the_great_katun-05-night_of_the_goddess_part_1-146-175.mp3",
+      "artist": "Paul Avgerinos",
+      "artist_id": "paul avgerinos"
+    },
+    {
+      "index": 386,
+      "clip_id": "23657",
+      "mp3_path": "f/pain_factor-8_seconds-05-no_cure-88-117.mp3",
+      "artist": "Pain Factor",
+      "artist_id": "pain factor"
+    },
+    {
+      "index": 387,
+      "clip_id": "2368",
+      "mp3_path": "e/touchinggrace-submission-01-last_nights_dream__the_experience-465-494.mp3",
+      "artist": "touchingGrace",
+      "artist_id": "touchinggrace"
+    },
+    {
+      "index": 388,
+      "clip_id": "23893",
+      "mp3_path": "5/thursday_group-uncle_mean-05-pelican_fan-117-146.mp3",
+      "artist": "Thursday Group",
+      "artist_id": "thursday group"
+    },
+    {
+      "index": 389,
+      "clip_id": "23899",
+      "mp3_path": "5/thursday_group-uncle_mean-05-pelican_fan-291-320.mp3",
+      "artist": "Thursday Group",
+      "artist_id": "thursday group"
+    },
+    {
+      "index": 390,
+      "clip_id": "23901",
+      "mp3_path": "5/thursday_group-uncle_mean-05-pelican_fan-349-378.mp3",
+      "artist": "Thursday Group",
+      "artist_id": "thursday group"
+    },
+    {
+      "index": 391,
+      "clip_id": "23907",
+      "mp3_path": "5/stargarden-the_art_of_analog_diversion-05-people_of_the_universe-0-29.mp3",
+      "artist": "Stargarden",
+      "artist_id": "stargarden"
+    },
+    {
+      "index": 392,
+      "clip_id": "23908",
+      "mp3_path": "5/stargarden-the_art_of_analog_diversion-05-people_of_the_universe-30-59.mp3",
+      "artist": "Stargarden",
+      "artist_id": "stargarden"
+    },
+    {
+      "index": 393,
+      "clip_id": "23930",
+      "mp3_path": "3/jan_hanford-24_preludes_for_solo_piano-05-prelude_no__5_in_g_minor-30-59.mp3",
+      "artist": "Jan Hanford",
+      "artist_id": "jan hanford"
+    },
+    {
+      "index": 394,
+      "clip_id": "23932",
+      "mp3_path": "a/janine_johnson-chopin_recital-05-prelude_op_28_no_10_in_c_minor-0-29.mp3",
+      "artist": "Janine Johnson",
+      "artist_id": "janine johnson"
+    },
+    {
+      "index": 395,
+      "clip_id": "23934",
+      "mp3_path": "2/saros-soundscapes-05-prelude-30-59.mp3",
+      "artist": "Saros",
+      "artist_id": "saros"
+    },
+    {
+      "index": 396,
+      "clip_id": "23935",
+      "mp3_path": "3/vito_paternoster-inzaffirio-05-preludio_iii-0-29.mp3",
+      "artist": "Vito Paternoster",
+      "artist_id": "vito paternoster"
+    },
+    {
+      "index": 397,
+      "clip_id": "24006",
+      "mp3_path": "4/jay_kishor-amber-05-raga_malgunji__tabla_solo_in_jhaptaal-146-175.mp3",
+      "artist": "Jay Kishor",
+      "artist_id": "jay kishor"
+    },
+    {
+      "index": 398,
+      "clip_id": "24046",
+      "mp3_path": "b/dj_cary-power_synths-05-ray_of_life_solar_cycle-233-262.mp3",
+      "artist": "DJ Cary",
+      "artist_id": "dj cary"
+    },
+    {
+      "index": 399,
+      "clip_id": "24085",
+      "mp3_path": "e/solace-balance-05-red_dragon_vs__phoenix-204-233.mp3",
+      "artist": "Solace",
+      "artist_id": "solace"
+    },
+    {
+      "index": 400,
+      "clip_id": "24099",
+      "mp3_path": "5/rapoon-cidar-05-red_water-59-88.mp3",
+      "artist": "Rapoon",
+      "artist_id": "rapoon"
+    },
+    {
+      "index": 401,
+      "clip_id": "24102",
+      "mp3_path": "5/rapoon-cidar-05-red_water-146-175.mp3",
+      "artist": "Rapoon",
+      "artist_id": "rapoon"
+    },
+    {
+      "index": 402,
+      "clip_id": "24233",
+      "mp3_path": "5/mr_epic-sideways-05-ruff_and_tumble-320-349.mp3",
+      "artist": "Mr Epic",
+      "artist_id": "mr epic"
+    },
+    {
+      "index": 403,
+      "clip_id": "24252",
+      "mp3_path": "5/rapoon-fallen_gods-05-sataranum-59-88.mp3",
+      "artist": "Rapoon",
+      "artist_id": "rapoon"
+    },
+    {
+      "index": 404,
+      "clip_id": "24275",
+      "mp3_path": "f/tilopa-turkishauch-05-schlicht_1-175-204.mp3",
+      "artist": "Tilopa",
+      "artist_id": "tilopa"
+    },
+    {
+      "index": 405,
+      "clip_id": "24299",
+      "mp3_path": "2/jami_sieber-lush_mechanique-05-secret_heat-0-29.mp3",
+      "artist": "Jami Sieber",
+      "artist_id": "jami sieber"
+    },
+    {
+      "index": 406,
+      "clip_id": "24301",
+      "mp3_path": "2/jami_sieber-lush_mechanique-05-secret_heat-59-88.mp3",
+      "artist": "Jami Sieber",
+      "artist_id": "jami sieber"
+    },
+    {
+      "index": 407,
+      "clip_id": "24358",
+      "mp3_path": "b/oberlin_consort_of_viols-5_and_6_part_fantasies_of_william_lawes-05-set_a_5_in_c_minor-349-378.mp3",
+      "artist": "Oberlin Consort of Viols",
+      "artist_id": "oberlin consort of viols"
+    },
+    {
+      "index": 408,
+      "clip_id": "24373",
+      "mp3_path": "c/william_brooks-blue_ribbon__the_best_of_william_brooks-05-seven_promises-88-117.mp3",
+      "artist": "William Brooks",
+      "artist_id": "william brooks"
+    },
+    {
+      "index": 409,
+      "clip_id": "24411",
+      "mp3_path": "2/indidginus-seismic-05-shindormo-233-262.mp3",
+      "artist": "Indidginus",
+      "artist_id": "indidginus"
+    },
+    {
+      "index": 410,
+      "clip_id": "2443",
+      "mp3_path": "5/thursday_group-uncle_mean-01-like_white_on_rice-117-146.mp3",
+      "artist": "Thursday Group",
+      "artist_id": "thursday group"
+    },
+    {
+      "index": 411,
+      "clip_id": "2445",
+      "mp3_path": "5/thursday_group-uncle_mean-01-like_white_on_rice-175-204.mp3",
+      "artist": "Thursday Group",
+      "artist_id": "thursday group"
+    },
+    {
+      "index": 412,
+      "clip_id": "2446",
+      "mp3_path": "5/thursday_group-uncle_mean-01-like_white_on_rice-204-233.mp3",
+      "artist": "Thursday Group",
+      "artist_id": "thursday group"
+    },
+    {
+      "index": 413,
+      "clip_id": "24463",
+      "mp3_path": "e/touchinggrace-submission-05-sitar_study-0-29.mp3",
+      "artist": "touchingGrace",
+      "artist_id": "touchinggrace"
+    },
+    {
+      "index": 414,
+      "clip_id": "24471",
+      "mp3_path": "e/touchinggrace-submission-05-sitar_study-233-262.mp3",
+      "artist": "touchingGrace",
+      "artist_id": "touchinggrace"
+    },
+    {
+      "index": 415,
+      "clip_id": "2449",
+      "mp3_path": "5/thursday_group-uncle_mean-01-like_white_on_rice-291-320.mp3",
+      "artist": "Thursday Group",
+      "artist_id": "thursday group"
+    },
+    {
+      "index": 416,
+      "clip_id": "24494",
+      "mp3_path": "f/ivilion-sartinal-05-skedlitirin-146-175.mp3",
+      "artist": "Ivilion",
+      "artist_id": "ivilion"
+    },
+    {
+      "index": 417,
+      "clip_id": "2451",
+      "mp3_path": "5/thursday_group-uncle_mean-01-like_white_on_rice-349-378.mp3",
+      "artist": "Thursday Group",
+      "artist_id": "thursday group"
+    },
+    {
+      "index": 418,
+      "clip_id": "24519",
+      "mp3_path": "d/seismic_anamoly-afterburner-05-skool_daze-552-581.mp3",
+      "artist": "Seismic Anamoly",
+      "artist_id": "seismic anamoly"
+    },
+    {
+      "index": 419,
+      "clip_id": "24528",
+      "mp3_path": "1/artemis-undone-05-slow_progression-59-88.mp3",
+      "artist": "Artemis",
+      "artist_id": "artemis"
+    },
+    {
+      "index": 420,
+      "clip_id": "24544",
+      "mp3_path": "1/phebe_craig_and_katherine_westine-beside_themselves-05-soler_conceierto_ii_in_a_minor_allegro-0-29.mp3",
+      "artist": "Phebe Craig and Katherine Westine",
+      "artist_id": "phebe craig and katherine westine"
+    },
+    {
+      "index": 421,
+      "clip_id": "24555",
+      "mp3_path": "1/phebe_craig_and_katherine_westine-beside_themselves-05-soler_conceierto_ii_in_a_minor_allegro-320-349.mp3",
+      "artist": "Phebe Craig and Katherine Westine",
+      "artist_id": "phebe craig and katherine westine"
+    },
+    {
+      "index": 422,
+      "clip_id": "2464",
+      "mp3_path": "0/beth_quist-silver-01-liquid_silver-88-117.mp3",
+      "artist": "Beth Quist",
+      "artist_id": "beth quist"
+    },
+    {
+      "index": 423,
+      "clip_id": "24721",
+      "mp3_path": "6/paul_beier-michelagnolo_galilei-05-sonate_in_f_minor_toccata_corrente_corrente_volta-436-465.mp3",
+      "artist": "Paul Beier",
+      "artist_id": "paul beier"
+    },
+    {
+      "index": 424,
+      "clip_id": "2474",
+      "mp3_path": "1/jeff_wahl-guinevere-01-loopoplane-30-59.mp3",
+      "artist": "Jeff Wahl",
+      "artist_id": "jeff wahl"
+    },
+    {
+      "index": 425,
+      "clip_id": "24751",
+      "mp3_path": "c/beatundercontrol-the_introduction-05-speechless-291-320.mp3",
+      "artist": "Beatundercontrol",
+      "artist_id": "beatundercontrol"
+    },
+    {
+      "index": 426,
+      "clip_id": "24763",
+      "mp3_path": "c/beatundercontrol-the_introduction-05-speechless-639-668.mp3",
+      "artist": "Beatundercontrol",
+      "artist_id": "beatundercontrol"
+    },
+    {
+      "index": 427,
+      "clip_id": "24766",
+      "mp3_path": "c/beatundercontrol-the_introduction-05-speechless-726-755.mp3",
+      "artist": "Beatundercontrol",
+      "artist_id": "beatundercontrol"
+    },
+    {
+      "index": 428,
+      "clip_id": "24826",
+      "mp3_path": "6/dj_markitos-slower_emotions138_bpm_remixes-05-starship_earth_138_bpm_remix-378-407.mp3",
+      "artist": "DJ Markitos",
+      "artist_id": "dj markitos"
+    },
+    {
+      "index": 429,
+      "clip_id": "24872",
+      "mp3_path": "2/jamie_janover-evolutions-05-subaqueous_turbulence-378-407.mp3",
+      "artist": "Jamie Janover",
+      "artist_id": "jamie janover"
+    },
+    {
+      "index": 430,
+      "clip_id": "2497",
+      "mp3_path": "5/stargarden-the_art_of_analog_diversion-01-lullabeene-233-262.mp3",
+      "artist": "Stargarden",
+      "artist_id": "stargarden"
+    },
+    {
+      "index": 431,
+      "clip_id": "24980",
+      "mp3_path": "c/touchinggrace-happenstance-05-sunday_driver-0-29.mp3",
+      "artist": "touchingGrace",
+      "artist_id": "touchinggrace"
+    },
+    {
+      "index": 432,
+      "clip_id": "25035",
+      "mp3_path": "b/belief_systems-eponyms-05-talk_box-146-175.mp3",
+      "artist": "Belief Systems",
+      "artist_id": "belief systems"
+    },
+    {
+      "index": 433,
+      "clip_id": "25041",
+      "mp3_path": "b/belief_systems-eponyms-05-talk_box-320-349.mp3",
+      "artist": "Belief Systems",
+      "artist_id": "belief systems"
+    },
+    {
+      "index": 434,
+      "clip_id": "25047",
+      "mp3_path": "5/processor-are_you_for_real-05-talk_like_a_puppet-30-59.mp3",
+      "artist": "Processor",
+      "artist_id": "processor"
+    },
+    {
+      "index": 435,
+      "clip_id": "25113",
+      "mp3_path": "d/ambient_teknology-the_all_seeing_eye_project-05-the_beholder-146-175.mp3",
+      "artist": "Ambient Teknology",
+      "artist_id": "ambient teknology"
+    },
+    {
+      "index": 436,
+      "clip_id": "2513",
+      "mp3_path": "2/mrdc-timecode-01-lust-88-117.mp3",
+      "artist": "MRDC",
+      "artist_id": "mrdc"
+    },
+    {
+      "index": 437,
+      "clip_id": "2515",
+      "mp3_path": "2/mrdc-timecode-01-lust-146-175.mp3",
+      "artist": "MRDC",
+      "artist_id": "mrdc"
+    },
+    {
+      "index": 438,
+      "clip_id": "25213",
+      "mp3_path": "2/mrdc-timecode-05-timecode-204-233.mp3",
+      "artist": "MRDC",
+      "artist_id": "mrdc"
+    },
+    {
+      "index": 439,
+      "clip_id": "25224",
+      "mp3_path": "b/magnatune_compilation-rock-05-tom_paul_before_you_know_it-88-117.mp3",
+      "artist": "Magnatune Compilation",
+      "artist_id": "magnatune compilation"
+    },
+    {
+      "index": 440,
+      "clip_id": "25245",
+      "mp3_path": "7/rob_costlow-woods_of_chaos-05-true_gemini-59-88.mp3",
+      "artist": "Rob Costlow",
+      "artist_id": "rob costlow"
+    },
+    {
+      "index": 441,
+      "clip_id": "25253",
+      "mp3_path": "7/rob_costlow-woods_of_chaos-05-true_gemini-291-320.mp3",
+      "artist": "Rob Costlow",
+      "artist_id": "rob costlow"
+    },
+    {
+      "index": 442,
+      "clip_id": "25256",
+      "mp3_path": "b/lisa_debenedictis-mixter_one-05-unaffected_below_sleepless_mix_by_oakhonour-30-59.mp3",
+      "artist": "Lisa DeBenedictis",
+      "artist_id": "lisa debenedictis"
+    },
+    {
+      "index": 443,
+      "clip_id": "25275",
+      "mp3_path": "e/justin_bianco-forge-05-upon_the_shore-30-59.mp3",
+      "artist": "Justin Bianco",
+      "artist_id": "justin bianco"
+    },
+    {
+      "index": 444,
+      "clip_id": "25283",
+      "mp3_path": "6/barry_phillips-trad-05-vallat_fran_lima-30-59.mp3",
+      "artist": "Barry Phillips",
+      "artist_id": "barry phillips"
+    },
+    {
+      "index": 445,
+      "clip_id": "2544",
+      "mp3_path": "4/jami_sieber-hidden_sky-01-maenam-175-204.mp3",
+      "artist": "Jami Sieber",
+      "artist_id": "jami sieber"
+    },
+    {
+      "index": 446,
+      "clip_id": "25449",
+      "mp3_path": "4/chris_juergensen-prospects-05-where_spirits_dance-88-117.mp3",
+      "artist": "Chris Juergensen",
+      "artist_id": "chris juergensen"
+    },
+    {
+      "index": 447,
+      "clip_id": "25504",
+      "mp3_path": "7/aba_structure-epic-05-yelo-117-146.mp3",
+      "artist": "ABA STRUCTURE",
+      "artist_id": "aba structure"
+    },
+    {
+      "index": 448,
+      "clip_id": "25531",
+      "mp3_path": "9/william_brooks-silent_wings-05-you_barely_see_me-88-117.mp3",
+      "artist": "William Brooks",
+      "artist_id": "william brooks"
+    },
+    {
+      "index": 449,
+      "clip_id": "25554",
+      "mp3_path": "9/philharmonia_baroque_orchestra-jake_heggie__to_hell_and_back-06-annes_decision-407-436.mp3",
+      "artist": "Philharmonia Baroque Orchestra",
+      "artist_id": "philharmonia baroque orchestra"
+    },
+    {
+      "index": 450,
+      "clip_id": "25563",
+      "mp3_path": "f/american_bach_soloists-j_s__bach_solo_cantatas-06-bwv82__iii_aria-0-29.mp3",
+      "artist": "American Bach Soloists",
+      "artist_id": "american bach soloists"
+    },
+    {
+      "index": 451,
+      "clip_id": "25602",
+      "mp3_path": "9/american_bach_soloists-heinrich_schutz__musicalische_exequien-06-kleine_geistliche_konzerte_swv_309_o_misericodissime_jesu-0-29.mp3",
+      "artist": "American Bach Soloists",
+      "artist_id": "american bach soloists"
+    },
+    {
+      "index": 452,
+      "clip_id": "25707",
+      "mp3_path": "5/human_response-survival-06-a_change_of_heart-88-117.mp3",
+      "artist": "Human Response",
+      "artist_id": "human response"
+    },
+    {
+      "index": 453,
+      "clip_id": "25720",
+      "mp3_path": "4/jami_sieber-hidden_sky-06-a_common_music-146-175.mp3",
+      "artist": "Jami Sieber",
+      "artist_id": "jami sieber"
+    },
+    {
+      "index": 454,
+      "clip_id": "25724",
+      "mp3_path": "4/jami_sieber-hidden_sky-06-a_common_music-262-291.mp3",
+      "artist": "Jami Sieber",
+      "artist_id": "jami sieber"
+    },
+    {
+      "index": 455,
+      "clip_id": "25728",
+      "mp3_path": "0/william_brooks-bitter_circus-06-a_different_state_of_mind-0-29.mp3",
+      "artist": "William Brooks",
+      "artist_id": "william brooks"
+    },
+    {
+      "index": 456,
+      "clip_id": "25755",
+      "mp3_path": "1/suzanne_teng-mystic_journey-06-aduman-233-262.mp3",
+      "artist": "Suzanne Teng",
+      "artist_id": "suzanne teng"
+    },
+    {
+      "index": 457,
+      "clip_id": "25776",
+      "mp3_path": "f/magnatune-relaxation_spa-06-after_claire_fitch-146-175.mp3",
+      "artist": "Magnatune",
+      "artist_id": "magnatune"
+    },
+    {
+      "index": 458,
+      "clip_id": "25785",
+      "mp3_path": "c/mountain_mirrors-lunar_ecstasy-06-afterlife-204-233.mp3",
+      "artist": "Mountain Mirrors",
+      "artist_id": "mountain mirrors"
+    },
+    {
+      "index": 459,
+      "clip_id": "25788",
+      "mp3_path": "e/jeff_wahl-meditative_guitar-06-akron_colorado-59-88.mp3",
+      "artist": "Jeff Wahl",
+      "artist_id": "jeff wahl"
+    },
+    {
+      "index": 460,
+      "clip_id": "25789",
+      "mp3_path": "e/jeff_wahl-meditative_guitar-06-akron_colorado-88-117.mp3",
+      "artist": "Jeff Wahl",
+      "artist_id": "jeff wahl"
+    },
+    {
+      "index": 461,
+      "clip_id": "25849",
+      "mp3_path": "e/mountain_mirrors-mountain_mirrors-06-alone_in_a_crowd-204-233.mp3",
+      "artist": "Mountain Mirrors",
+      "artist_id": "mountain mirrors"
+    },
+    {
+      "index": 462,
+      "clip_id": "25854",
+      "mp3_path": "9/the_wretch-ambulatory-06-ambulatory-0-29.mp3",
+      "artist": "The Wretch",
+      "artist_id": "the wretch"
+    },
+    {
+      "index": 463,
+      "clip_id": "25874",
+      "mp3_path": "7/roots_of_rebellion-the_looking_glass-06-amnesia-88-117.mp3",
+      "artist": "Roots of Rebellion",
+      "artist_id": "roots of rebellion"
+    },
+    {
+      "index": 464,
+      "clip_id": "25897",
+      "mp3_path": "4/human_response-delirious-06-angels-204-233.mp3",
+      "artist": "Human Response",
+      "artist_id": "human response"
+    },
+    {
+      "index": 465,
+      "clip_id": "25907",
+      "mp3_path": "5/stargarden-step_off-06-anger_management-262-291.mp3",
+      "artist": "Stargarden",
+      "artist_id": "stargarden"
+    },
+    {
+      "index": 466,
+      "clip_id": "25978",
+      "mp3_path": "c/dj_markitos-inside_your_dreams-06-artificial_signals-204-233.mp3",
+      "artist": "DJ Markitos",
+      "artist_id": "dj markitos"
+    },
+    {
+      "index": 467,
+      "clip_id": "25999",
+      "mp3_path": "8/kenji_williams-worldspirit_soundtrack-06-aura-175-204.mp3",
+      "artist": "Kenji Williams",
+      "artist_id": "kenji williams"
+    },
+    {
+      "index": 468,
+      "clip_id": "26005",
+      "mp3_path": "8/kenji_williams-worldspirit_soundtrack-06-aura-349-378.mp3",
+      "artist": "Kenji Williams",
+      "artist_id": "kenji williams"
+    },
+    {
+      "index": 469,
+      "clip_id": "26024",
+      "mp3_path": "7/falik-elvolution-06-ay_mambo-262-291.mp3",
+      "artist": "Falik",
+      "artist_id": "falik"
+    },
+    {
+      "index": 470,
+      "clip_id": "26034",
+      "mp3_path": "5/stargarden-the_art_of_analog_diversion-06-babba_gee-0-29.mp3",
+      "artist": "Stargarden",
+      "artist_id": "stargarden"
+    },
+    {
+      "index": 471,
+      "clip_id": "26037",
+      "mp3_path": "5/stargarden-the_art_of_analog_diversion-06-babba_gee-88-117.mp3",
+      "artist": "Stargarden",
+      "artist_id": "stargarden"
+    },
+    {
+      "index": 472,
+      "clip_id": "26142",
+      "mp3_path": "1/artemis-undone-06-beside_u-291-320.mp3",
+      "artist": "Artemis",
+      "artist_id": "artemis"
+    },
+    {
+      "index": 473,
+      "clip_id": "26199",
+      "mp3_path": "3/dj_cary-downtempo_chill-06-breathing_shiva_in_exile-0-29.mp3",
+      "artist": "DJ Cary",
+      "artist_id": "dj cary"
+    },
+    {
+      "index": 474,
+      "clip_id": "26248",
+      "mp3_path": "8/jacob_heringman-josquin_des_prez_lute_settings-06-capirola__qui_tollis_peccata_mundi-88-117.mp3",
+      "artist": "Jacob Heringman",
+      "artist_id": "jacob heringman"
+    },
+    {
+      "index": 475,
+      "clip_id": "26271",
+      "mp3_path": "2/indidginus-as_above_so_below-06-champa-233-262.mp3",
+      "artist": "Indidginus",
+      "artist_id": "indidginus"
+    },
+    {
+      "index": 476,
+      "clip_id": "26290",
+      "mp3_path": "6/stargarden-ambient_excursions-06-chenrezig-291-320.mp3",
+      "artist": "Stargarden",
+      "artist_id": "stargarden"
+    },
+    {
+      "index": 477,
+      "clip_id": "26311",
+      "mp3_path": "d/kyiv_chamber_choir-praise_the_lord-06-chesnokovdo_not_forsake_me-204-233.mp3",
+      "artist": "Kyiv Chamber Choir",
+      "artist_id": "kyiv chamber choir"
+    },
+    {
+      "index": 478,
+      "clip_id": "26358",
+      "mp3_path": "b/philharmonia_baroque-mozart_orchestral_works-06-concerto_for_flute_and_harp_in_c_major_kv299_andantino-291-320.mp3",
+      "artist": "Philharmonia Baroque",
+      "artist_id": "philharmonia baroque"
+    },
+    {
+      "index": 479,
+      "clip_id": "26394",
+      "mp3_path": "9/the_sarasa_ensemble-a_baroque_mosaic-06-concerto_in_c_major__allegro_non_molto_vivaldi-30-59.mp3",
+      "artist": "The Sarasa Ensemble",
+      "artist_id": "the sarasa ensemble"
+    },
+    {
+      "index": 480,
+      "clip_id": "26405",
+      "mp3_path": "c/telemann_trio_berlin-telemann_trio_berlin-06-concerto_in_ddur__andante_vivaldi-88-117.mp3",
+      "artist": "Telemann Trio Berlin",
+      "artist_id": "telemann trio berlin"
+    },
+    {
+      "index": 481,
+      "clip_id": "2650",
+      "mp3_path": "4/jay_kishor-the_color_of_night-01-malkauns-1944-1973.mp3",
+      "artist": "Jay Kishor",
+      "artist_id": "jay kishor"
+    },
+    {
+      "index": 482,
+      "clip_id": "26523",
+      "mp3_path": "d/ambient_teknology-the_all_seeing_eye_project-06-cyead-88-117.mp3",
+      "artist": "Ambient Teknology",
+      "artist_id": "ambient teknology"
+    },
+    {
+      "index": 483,
+      "clip_id": "26529",
+      "mp3_path": "d/ambient_teknology-the_all_seeing_eye_project-06-cyead-262-291.mp3",
+      "artist": "Ambient Teknology",
+      "artist_id": "ambient teknology"
+    },
+    {
+      "index": 484,
+      "clip_id": "26651",
+      "mp3_path": "b/belief_systems-eponyms-06-deep_house-0-29.mp3",
+      "artist": "Belief Systems",
+      "artist_id": "belief systems"
+    },
+    {
+      "index": 485,
+      "clip_id": "26777",
+      "mp3_path": "7/rob_costlow-woods_of_chaos-06-down_the_road-0-29.mp3",
+      "artist": "Rob Costlow",
+      "artist_id": "rob costlow"
+    },
+    {
+      "index": 486,
+      "clip_id": "26781",
+      "mp3_path": "7/rob_costlow-woods_of_chaos-06-down_the_road-117-146.mp3",
+      "artist": "Rob Costlow",
+      "artist_id": "rob costlow"
+    },
+    {
+      "index": 487,
+      "clip_id": "26792",
+      "mp3_path": "c/liquid_zen-seventythree-06-drop_the_sky-233-262.mp3",
+      "artist": "Liquid Zen",
+      "artist_id": "liquid zen"
+    },
+    {
+      "index": 488,
+      "clip_id": "2689",
+      "mp3_path": "f/magnatune-relaxation_spa-01-mandlovu_mind_jami_sieber-378-407.mp3",
+      "artist": "Magnatune",
+      "artist_id": "magnatune"
+    },
+    {
+      "index": 489,
+      "clip_id": "2690",
+      "mp3_path": "f/magnatune-relaxation_spa-01-mandlovu_mind_jami_sieber-407-436.mp3",
+      "artist": "Magnatune",
+      "artist_id": "magnatune"
+    },
+    {
+      "index": 490,
+      "clip_id": "26966",
+      "mp3_path": "0/american_bach_soloists-joseph_haydn__masses-06-et_incarnatus__largo-59-88.mp3",
+      "artist": "American Bach Soloists",
+      "artist_id": "american bach soloists"
+    },
+    {
+      "index": 491,
+      "clip_id": "26976",
+      "mp3_path": "7/american_bach_soloists-j_s__bach__mass_in_b_minor_cd2-06-et_resurrexit-117-146.mp3",
+      "artist": "American Bach Soloists",
+      "artist_id": "american bach soloists"
+    },
+    {
+      "index": 492,
+      "clip_id": "27043",
+      "mp3_path": "c/rapoon-easterly_6_or_7-06-falling_more_slowly-88-117.mp3",
+      "artist": "Rapoon",
+      "artist_id": "rapoon"
+    },
+    {
+      "index": 493,
+      "clip_id": "2706",
+      "mp3_path": "5/dj_markitos-unreachable_destiny-01-manteia-233-262.mp3",
+      "artist": "DJ Markitos",
+      "artist_id": "dj markitos"
+    },
+    {
+      "index": 494,
+      "clip_id": "27071",
+      "mp3_path": "c/rapoon-easterly_6_or_7-06-falling_more_slowly-900-929.mp3",
+      "artist": "Rapoon",
+      "artist_id": "rapoon"
+    },
+    {
+      "index": 495,
+      "clip_id": "27095",
+      "mp3_path": "5/paul_beier-simone_molinaro-06-fantasia_ottava-117-146.mp3",
+      "artist": "Paul Beier",
+      "artist_id": "paul beier"
+    },
+    {
+      "index": 496,
+      "clip_id": "27123",
+      "mp3_path": "4/seismic_anamoly-sweet_rock_candy-06-fire_in_tha_hole-0-29.mp3",
+      "artist": "Seismic Anamoly",
+      "artist_id": "seismic anamoly"
+    },
+    {
+      "index": 497,
+      "clip_id": "27131",
+      "mp3_path": "4/seismic_anamoly-sweet_rock_candy-06-fire_in_tha_hole-233-262.mp3",
+      "artist": "Seismic Anamoly",
+      "artist_id": "seismic anamoly"
+    },
+    {
+      "index": 498,
+      "clip_id": "27141",
+      "mp3_path": "3/american_baroque-mozart_4_quartets_for_strings_and_winds-06-flute_quartet_in_c_k285b__allegro-175-204.mp3",
+      "artist": "American Baroque",
+      "artist_id": "american baroque"
+    },
+    {
+      "index": 499,
+      "clip_id": "2723",
+      "mp3_path": "4/music_of_the_spheres-music_of_the_spheres-01-matteis_ground_after_the_scotch_humour-30-59.mp3",
+      "artist": "Music of the Spheres",
+      "artist_id": "music of the spheres"
+    }
+  ],
+  "clip_id_to_index": {
+    "10022": 0,
+    "10148": 1,
+    "10153": 2,
+    "10183": 3,
+    "10206": 4,
+    "10291": 5,
+    "10316": 6,
+    "10396": 7,
+    "10428": 8,
+    "10491": 9,
+    "10653": 10,
+    "10671": 11,
+    "10718": 12,
+    "10775": 13,
+    "10786": 14,
+    "10787": 15,
+    "10791": 16,
+    "10799": 17,
+    "10814": 18,
+    "10827": 19,
+    "10846": 20,
+    "10887": 21,
+    "11016": 22,
+    "11022": 23,
+    "1104": 24,
+    "11102": 25,
+    "11126": 26,
+    "11142": 27,
+    "1116": 28,
+    "1124": 29,
+    "11247": 30,
+    "11320": 31,
+    "11348": 32,
+    "11363": 33,
+    "1137": 34,
+    "11387": 35,
+    "11405": 36,
+    "11424": 37,
+    "11438": 38,
+    "11439": 39,
+    "115": 40,
+    "11520": 41,
+    "1153": 42,
+    "11559": 43,
+    "1156": 44,
+    "11613": 45,
+    "11636": 46,
+    "11696": 47,
+    "11836": 48,
+    "11866": 49,
+    "11878": 50,
+    "11950": 51,
+    "12": 52,
+    "120": 53,
+    "12035": 54,
+    "12060": 55,
+    "12088": 56,
+    "12102": 57,
+    "12106": 58,
+    "12124": 59,
+    "12159": 60,
+    "12246": 61,
+    "1225": 62,
+    "1232": 63,
+    "12348": 64,
+    "12359": 65,
+    "12408": 66,
+    "12424": 67,
+    "12443": 68,
+    "12458": 69,
+    "12478": 70,
+    "12482": 71,
+    "12484": 72,
+    "12495": 73,
+    "12550": 74,
+    "12587": 75,
+    "12591": 76,
+    "12607": 77,
+    "12630": 78,
+    "12784": 79,
+    "13025": 80,
+    "13073": 81,
+    "13105": 82,
+    "13115": 83,
+    "13221": 84,
+    "13266": 85,
+    "13280": 86,
+    "13300": 87,
+    "13348": 88,
+    "13353": 89,
+    "13360": 90,
+    "13440": 91,
+    "13462": 92,
+    "13463": 93,
+    "13500": 94,
+    "13582": 95,
+    "13674": 96,
+    "13703": 97,
+    "13776": 98,
+    "13823": 99,
+    "13832": 100,
+    "13835": 101,
+    "13847": 102,
+    "13876": 103,
+    "13973": 104,
+    "13989": 105,
+    "13990": 106,
+    "14091": 107,
+    "14139": 108,
+    "14147": 109,
+    "1415": 110,
+    "14225": 111,
+    "14352": 112,
+    "14359": 113,
+    "14430": 114,
+    "14455": 115,
+    "14505": 116,
+    "14554": 117,
+    "14633": 118,
+    "14652": 119,
+    "14653": 120,
+    "14692": 121,
+    "14709": 122,
+    "14737": 123,
+    "14776": 124,
+    "14783": 125,
+    "14850": 126,
+    "14868": 127,
+    "14888": 128,
+    "14932": 129,
+    "14968": 130,
+    "14995": 131,
+    "15017": 132,
+    "15049": 133,
+    "15081": 134,
+    "15098": 135,
+    "1513": 136,
+    "1515": 137,
+    "15190": 138,
+    "15233": 139,
+    "15281": 140,
+    "15289": 141,
+    "15299": 142,
+    "1531": 143,
+    "15322": 144,
+    "15332": 145,
+    "15336": 146,
+    "15364": 147,
+    "15400": 148,
+    "15486": 149,
+    "15623": 150,
+    "15722": 151,
+    "15730": 152,
+    "15826": 153,
+    "15838": 154,
+    "15849": 155,
+    "15850": 156,
+    "15856": 157,
+    "15933": 158,
+    "1596": 159,
+    "15977": 160,
+    "16261": 161,
+    "16285": 162,
+    "16349": 163,
+    "16356": 164,
+    "16358": 165,
+    "16405": 166,
+    "16461": 167,
+    "16537": 168,
+    "16542": 169,
+    "16544": 170,
+    "16634": 171,
+    "16687": 172,
+    "16777": 173,
+    "16788": 174,
+    "16907": 175,
+    "16958": 176,
+    "16974": 177,
+    "16975": 178,
+    "17028": 179,
+    "1706": 180,
+    "17120": 181,
+    "17210": 182,
+    "17241": 183,
+    "17252": 184,
+    "17305": 185,
+    "17313": 186,
+    "17326": 187,
+    "174": 188,
+    "17524": 189,
+    "17531": 190,
+    "17532": 191,
+    "17577": 192,
+    "17615": 193,
+    "1763": 194,
+    "17635": 195,
+    "17639": 196,
+    "1766": 197,
+    "17728": 198,
+    "17733": 199,
+    "17753": 200,
+    "17786": 201,
+    "17787": 202,
+    "17798": 203,
+    "17809": 204,
+    "17811": 205,
+    "17853": 206,
+    "17862": 207,
+    "18042": 208,
+    "18053": 209,
+    "1806": 210,
+    "18060": 211,
+    "18083": 212,
+    "18120": 213,
+    "18135": 214,
+    "18147": 215,
+    "18190": 216,
+    "18215": 217,
+    "18217": 218,
+    "18221": 219,
+    "18280": 220,
+    "18323": 221,
+    "18327": 222,
+    "18354": 223,
+    "184": 224,
+    "18430": 225,
+    "18438": 226,
+    "18459": 227,
+    "18542": 228,
+    "18546": 229,
+    "18629": 230,
+    "18635": 231,
+    "18670": 232,
+    "18707": 233,
+    "18741": 234,
+    "18747": 235,
+    "18805": 236,
+    "1884": 237,
+    "18901": 238,
+    "18940": 239,
+    "18956": 240,
+    "18971": 241,
+    "19010": 242,
+    "1904": 243,
+    "19072": 244,
+    "19074": 245,
+    "191": 246,
+    "19251": 247,
+    "19302": 248,
+    "19320": 249,
+    "19322": 250,
+    "19327": 251,
+    "1933": 252,
+    "19419": 253,
+    "19422": 254,
+    "19498": 255,
+    "1951": 256,
+    "19521": 257,
+    "19538": 258,
+    "19546": 259,
+    "19569": 260,
+    "19601": 261,
+    "19602": 262,
+    "19603": 263,
+    "19637": 264,
+    "19737": 265,
+    "19744": 266,
+    "19764": 267,
+    "19929": 268,
+    "19962": 269,
+    "19963": 270,
+    "1998": 271,
+    "19989": 272,
+    "20079": 273,
+    "20170": 274,
+    "20209": 275,
+    "2025": 276,
+    "20346": 277,
+    "20393": 278,
+    "20458": 279,
+    "20465": 280,
+    "20481": 281,
+    "20497": 282,
+    "20523": 283,
+    "20528": 284,
+    "20565": 285,
+    "2057": 286,
+    "20575": 287,
+    "20579": 288,
+    "2062": 289,
+    "20626": 290,
+    "2063": 291,
+    "20654": 292,
+    "20670": 293,
+    "20793": 294,
+    "20822": 295,
+    "20840": 296,
+    "20853": 297,
+    "20882": 298,
+    "20886": 299,
+    "20919": 300,
+    "20976": 301,
+    "21009": 302,
+    "21046": 303,
+    "2109": 304,
+    "21111": 305,
+    "21136": 306,
+    "21159": 307,
+    "21160": 308,
+    "2117": 309,
+    "21189": 310,
+    "21215": 311,
+    "21278": 312,
+    "21288": 313,
+    "21360": 314,
+    "21438": 315,
+    "21484": 316,
+    "21492": 317,
+    "21561": 318,
+    "21577": 319,
+    "21608": 320,
+    "21610": 321,
+    "21612": 322,
+    "21624": 323,
+    "21626": 324,
+    "21627": 325,
+    "21631": 326,
+    "21632": 327,
+    "21723": 328,
+    "21795": 329,
+    "21806": 330,
+    "21887": 331,
+    "21897": 332,
+    "21901": 333,
+    "21916": 334,
+    "21921": 335,
+    "21972": 336,
+    "22022": 337,
+    "22242": 338,
+    "22243": 339,
+    "22280": 340,
+    "22286": 341,
+    "22292": 342,
+    "22306": 343,
+    "22355": 344,
+    "22358": 345,
+    "2239": 346,
+    "22410": 347,
+    "22438": 348,
+    "22442": 349,
+    "22458": 350,
+    "22496": 351,
+    "22536": 352,
+    "22543": 353,
+    "22620": 354,
+    "22642": 355,
+    "22653": 356,
+    "22656": 357,
+    "22782": 358,
+    "22848": 359,
+    "22880": 360,
+    "22935": 361,
+    "2296": 362,
+    "22967": 363,
+    "23007": 364,
+    "23033": 365,
+    "23050": 366,
+    "23054": 367,
+    "23065": 368,
+    "23107": 369,
+    "23117": 370,
+    "2314": 371,
+    "2324": 372,
+    "23271": 373,
+    "23274": 374,
+    "23282": 375,
+    "23289": 376,
+    "23393": 377,
+    "23402": 378,
+    "23451": 379,
+    "23488": 380,
+    "23516": 381,
+    "23532": 382,
+    "23593": 383,
+    "23606": 384,
+    "23627": 385,
+    "23657": 386,
+    "2368": 387,
+    "23893": 388,
+    "23899": 389,
+    "23901": 390,
+    "23907": 391,
+    "23908": 392,
+    "23930": 393,
+    "23932": 394,
+    "23934": 395,
+    "23935": 396,
+    "24006": 397,
+    "24046": 398,
+    "24085": 399,
+    "24099": 400,
+    "24102": 401,
+    "24233": 402,
+    "24252": 403,
+    "24275": 404,
+    "24299": 405,
+    "24301": 406,
+    "24358": 407,
+    "24373": 408,
+    "24411": 409,
+    "2443": 410,
+    "2445": 411,
+    "2446": 412,
+    "24463": 413,
+    "24471": 414,
+    "2449": 415,
+    "24494": 416,
+    "2451": 417,
+    "24519": 418,
+    "24528": 419,
+    "24544": 420,
+    "24555": 421,
+    "2464": 422,
+    "24721": 423,
+    "2474": 424,
+    "24751": 425,
+    "24763": 426,
+    "24766": 427,
+    "24826": 428,
+    "24872": 429,
+    "2497": 430,
+    "24980": 431,
+    "25035": 432,
+    "25041": 433,
+    "25047": 434,
+    "25113": 435,
+    "2513": 436,
+    "2515": 437,
+    "25213": 438,
+    "25224": 439,
+    "25245": 440,
+    "25253": 441,
+    "25256": 442,
+    "25275": 443,
+    "25283": 444,
+    "2544": 445,
+    "25449": 446,
+    "25504": 447,
+    "25531": 448,
+    "25554": 449,
+    "25563": 450,
+    "25602": 451,
+    "25707": 452,
+    "25720": 453,
+    "25724": 454,
+    "25728": 455,
+    "25755": 456,
+    "25776": 457,
+    "25785": 458,
+    "25788": 459,
+    "25789": 460,
+    "25849": 461,
+    "25854": 462,
+    "25874": 463,
+    "25897": 464,
+    "25907": 465,
+    "25978": 466,
+    "25999": 467,
+    "26005": 468,
+    "26024": 469,
+    "26034": 470,
+    "26037": 471,
+    "26142": 472,
+    "26199": 473,
+    "26248": 474,
+    "26271": 475,
+    "26290": 476,
+    "26311": 477,
+    "26358": 478,
+    "26394": 479,
+    "26405": 480,
+    "2650": 481,
+    "26523": 482,
+    "26529": 483,
+    "26651": 484,
+    "26777": 485,
+    "26781": 486,
+    "26792": 487,
+    "2689": 488,
+    "2690": 489,
+    "26966": 490,
+    "26976": 491,
+    "27043": 492,
+    "2706": 493,
+    "27071": 494,
+    "27095": 495,
+    "27123": 496,
+    "27131": 497,
+    "27141": 498,
+    "2723": 499
+  }
+}

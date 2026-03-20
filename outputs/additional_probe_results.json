@@ -1,0 +1,173 @@
+[
+  {
+    "attribute": "instrument",
+    "num_classes": 12,
+    "num_prompts": 300,
+    "cv_splits": 5,
+    "accuracy_mean": 1.0,
+    "accuracy_std": 0.0,
+    "chance_baseline": 0.08333333333333333,
+    "margin_over_chance": 0.9166666666666666,
+    "is_above_chance": true,
+    "classes": [
+      "piano",
+      "electric guitar",
+      "acoustic guitar",
+      "violin",
+      "cello",
+      "trumpet",
+      "saxophone",
+      "flute",
+      "drum kit",
+      "synthesizer",
+      "bass guitar",
+      "harp"
+    ]
+  },
+  {
+    "attribute": "music_structure",
+    "num_classes": 6,
+    "num_prompts": 150,
+    "cv_splits": 5,
+    "accuracy_mean": 0.9933333333333334,
+    "accuracy_std": 0.01333333333333333,
+    "chance_baseline": 0.16666666666666666,
+    "margin_over_chance": 0.8266666666666668,
+    "is_above_chance": true,
+    "classes": [
+      "intro section",
+      "verse section",
+      "chorus section",
+      "bridge section",
+      "outro section",
+      "drop section"
+    ]
+  },
+  {
+    "attribute": "chord_choice",
+    "num_classes": 6,
+    "num_prompts": 150,
+    "cv_splits": 5,
+    "accuracy_mean": 0.9933333333333334,
+    "accuracy_std": 0.01333333333333333,
+    "chance_baseline": 0.16666666666666666,
+    "margin_over_chance": 0.8266666666666668,
+    "is_above_chance": true,
+    "classes": [
+      "major chords",
+      "minor chords",
+      "diminished chords",
+      "dominant seventh chords",
+      "suspended chords",
+      "quartal harmony"
+    ]
+  },
+  {
+    "attribute": "melody",
+    "num_classes": 5,
+    "num_prompts": 125,
+    "cv_splits": 5,
+    "accuracy_mean": 0.976,
+    "accuracy_std": 0.03199999999999999,
+    "chance_baseline": 0.2,
+    "margin_over_chance": 0.776,
+    "is_above_chance": true,
+    "classes": [
+      "stepwise melody",
+      "arpeggiated melody",
+      "lyrical melody",
+      "repetitive melody",
+      "chromatic melody"
+    ]
+  },
+  {
+    "attribute": "timbre",
+    "num_classes": 5,
+    "num_prompts": 125,
+    "cv_splits": 5,
+    "accuracy_mean": 0.96,
+    "accuracy_std": 0.04381780460041329,
+    "chance_baseline": 0.2,
+    "margin_over_chance": 0.76,
+    "is_above_chance": true,
+    "classes": [
+      "warm timbre",
+      "bright timbre",
+      "dark timbre",
+      "harsh timbre",
+      "airy timbre"
+    ]
+  },
+  {
+    "attribute": "tempo",
+    "num_classes": 5,
+    "num_prompts": 125,
+    "cv_splits": 5,
+    "accuracy_mean": 0.808,
+    "accuracy_std": 0.07756287771866129,
+    "chance_baseline": 0.2,
+    "margin_over_chance": 0.6080000000000001,
+    "is_above_chance": true,
+    "classes": [
+      "very slow tempo",
+      "slow tempo",
+      "medium tempo",
+      "fast tempo",
+      "very fast tempo"
+    ]
+  },
+  {
+    "attribute": "loudness",
+    "num_classes": 6,
+    "num_prompts": 150,
+    "cv_splits": 5,
+    "accuracy_mean": 0.76,
+    "accuracy_std": 0.04898979485566359,
+    "chance_baseline": 0.16666666666666666,
+    "margin_over_chance": 0.5933333333333334,
+    "is_above_chance": true,
+    "classes": [
+      "very quiet volume",
+      "quiet volume",
+      "moderate volume",
+      "loud volume",
+      "very loud volume",
+      "clipped distortion loudness"
+    ]
+  },
+  {
+    "attribute": "octave",
+    "num_classes": 4,
+    "num_prompts": 100,
+    "cv_splits": 5,
+    "accuracy_mean": 0.74,
+    "accuracy_std": 0.08602325267042628,
+    "chance_baseline": 0.25,
+    "margin_over_chance": 0.49,
+    "is_above_chance": true,
+    "classes": [
+      "low octave register",
+      "mid octave register",
+      "high octave register",
+      "very high octave register"
+    ]
+  },
+  {
+    "attribute": "duration",
+    "num_classes": 5,
+    "num_prompts": 125,
+    "cv_splits": 5,
+    "accuracy_mean": 0.648,
+    "accuracy_std": 0.06399999999999999,
+    "chance_baseline": 0.2,
+    "margin_over_chance": 0.448,
+    "is_above_chance": true,
+    "classes": [
+      "very short duration",
+      "short duration",
+      "medium duration",
+      "long duration",
+      "very long duration"
+    ]
+  }
+]

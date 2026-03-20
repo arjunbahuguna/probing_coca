@@ -1,0 +1,90 @@
+{
+  "description": "Quick-run comparison of linear separability for text prompts vs MTAT audio embeddings.",
+  "artist_disjoint_audio_eval": true,
+  "rows": [
+    {
+      "attribute": "loudness_proxy",
+      "text_attribute": "loudness",
+      "audio_accuracy_mean": 0.9299940466880798,
+      "audio_accuracy_std": 0.03757503256201744,
+      "audio_chance": 0.5,
+      "audio_margin": 0.42999404668807983,
+      "text_accuracy_mean": 0.76,
+      "text_accuracy_std": 0.04898979485566359,
+      "text_chance": 0.16666666666666666,
+      "text_margin": 0.5933333333333334,
+      "delta_audio_minus_text": 0.16999404668807983
+    },
+    {
+      "attribute": "structure_chorus_proxy",
+      "text_attribute": "music_structure",
+      "audio_accuracy_mean": 0.8074495196342468,
+      "audio_accuracy_std": 0.11082736402750015,
+      "audio_chance": 0.5,
+      "audio_margin": 0.3074495196342468,
+      "text_accuracy_mean": 0.9933333333333334,
+      "text_accuracy_std": 0.01333333333333333,
+      "text_chance": 0.16666666666666666,
+      "text_margin": 0.8266666666666668,
+      "delta_audio_minus_text": -0.18588381369908658
+    },
+    {
+      "attribute": "timbre_proxy",
+      "text_attribute": "timbre",
+      "audio_accuracy_mean": 0.7180375456809998,
+      "audio_accuracy_std": 0.100258968770504,
+      "audio_chance": 0.25,
+      "audio_margin": 0.46803754568099976,
+      "text_accuracy_mean": 0.96,
+      "text_accuracy_std": 0.04381780460041329,
+      "text_chance": 0.2,
+      "text_margin": 0.76,
+      "delta_audio_minus_text": -0.2419624543190002
+    },
+    {
+      "attribute": "octave_proxy",
+      "text_attribute": "octave",
+      "audio_accuracy_mean": 0.6886408925056458,
+      "audio_accuracy_std": 0.07543803751468658,
+      "audio_chance": 0.5,
+      "audio_margin": 0.18864089250564575,
+      "text_accuracy_mean": 0.74,
+      "text_accuracy_std": 0.08602325267042628,
+      "text_chance": 0.25,
+      "text_margin": 0.49,
+      "delta_audio_minus_text": -0.05135910749435424
+    },
+    {
+      "attribute": "tempo_proxy",
+      "text_attribute": "tempo",
+      "audio_accuracy_mean": 0.5833333134651184,
+      "audio_accuracy_std": 0.06421265006065369,
+      "audio_chance": 0.3333333333333333,
+      "audio_margin": 0.2499999701976776,
+      "text_accuracy_mean": 0.808,
+      "text_accuracy_std": 0.07756287771866129,
+      "text_chance": 0.2,
+      "text_margin": 0.6080000000000001,
+      "delta_audio_minus_text": -0.22466668653488164
+    },
+    {
+      "attribute": "instrument",
+      "text_attribute": "instrument",
+      "audio_accuracy_mean": 0.5360453128814697,
+      "audio_accuracy_std": 0.1549316644668579,
+      "audio_chance": 0.125,
+      "audio_margin": 0.4110453128814697,
+      "text_accuracy_mean": 1.0,
+      "text_accuracy_std": 0.0,
+      "text_chance": 0.08333333333333333,
+      "text_margin": 0.9166666666666666,
+      "delta_audio_minus_text": -0.4639546871185303
+    }
+  ],
+  "unsupported_attributes": [
+    "music_structure_multisection",
+    "chord_choice",
+    "melody",
+    "duration"
+  ]
+}

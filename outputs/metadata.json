@@ -1,0 +1,1962 @@
+[
+  {
+    "text": "deep house",
+    "genre_label": "deep house",
+    "style_label": "energetic",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "energetic deep house",
+    "genre_label": "deep house",
+    "style_label": "energetic",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "deep house with energetic atmosphere",
+    "genre_label": "deep house",
+    "style_label": "energetic",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "deep house",
+    "genre_label": "deep house",
+    "style_label": "melancholic",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "melancholic deep house",
+    "genre_label": "deep house",
+    "style_label": "melancholic",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "deep house with melancholic atmosphere",
+    "genre_label": "deep house",
+    "style_label": "melancholic",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "deep house",
+    "genre_label": "deep house",
+    "style_label": "lo-fi",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "lo-fi deep house",
+    "genre_label": "deep house",
+    "style_label": "lo-fi",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "deep house with lo-fi atmosphere",
+    "genre_label": "deep house",
+    "style_label": "lo-fi",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "deep house",
+    "genre_label": "deep house",
+    "style_label": "aggressive",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "aggressive deep house",
+    "genre_label": "deep house",
+    "style_label": "aggressive",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "deep house with aggressive atmosphere",
+    "genre_label": "deep house",
+    "style_label": "aggressive",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "deep house",
+    "genre_label": "deep house",
+    "style_label": "dreamy",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "dreamy deep house",
+    "genre_label": "deep house",
+    "style_label": "dreamy",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "deep house with dreamy atmosphere",
+    "genre_label": "deep house",
+    "style_label": "dreamy",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "deep house",
+    "genre_label": "deep house",
+    "style_label": "minimalist",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "minimalist deep house",
+    "genre_label": "deep house",
+    "style_label": "minimalist",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "deep house with minimalist atmosphere",
+    "genre_label": "deep house",
+    "style_label": "minimalist",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "techno",
+    "genre_label": "techno",
+    "style_label": "energetic",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "energetic techno",
+    "genre_label": "techno",
+    "style_label": "energetic",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "techno with energetic atmosphere",
+    "genre_label": "techno",
+    "style_label": "energetic",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "techno",
+    "genre_label": "techno",
+    "style_label": "melancholic",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "melancholic techno",
+    "genre_label": "techno",
+    "style_label": "melancholic",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "techno with melancholic atmosphere",
+    "genre_label": "techno",
+    "style_label": "melancholic",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "techno",
+    "genre_label": "techno",
+    "style_label": "lo-fi",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "lo-fi techno",
+    "genre_label": "techno",
+    "style_label": "lo-fi",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "techno with lo-fi atmosphere",
+    "genre_label": "techno",
+    "style_label": "lo-fi",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "techno",
+    "genre_label": "techno",
+    "style_label": "aggressive",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "aggressive techno",
+    "genre_label": "techno",
+    "style_label": "aggressive",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "techno with aggressive atmosphere",
+    "genre_label": "techno",
+    "style_label": "aggressive",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "techno",
+    "genre_label": "techno",
+    "style_label": "dreamy",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "dreamy techno",
+    "genre_label": "techno",
+    "style_label": "dreamy",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "techno with dreamy atmosphere",
+    "genre_label": "techno",
+    "style_label": "dreamy",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "techno",
+    "genre_label": "techno",
+    "style_label": "minimalist",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "minimalist techno",
+    "genre_label": "techno",
+    "style_label": "minimalist",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "techno with minimalist atmosphere",
+    "genre_label": "techno",
+    "style_label": "minimalist",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "jazz",
+    "genre_label": "jazz",
+    "style_label": "energetic",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "energetic jazz",
+    "genre_label": "jazz",
+    "style_label": "energetic",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "jazz with energetic atmosphere",
+    "genre_label": "jazz",
+    "style_label": "energetic",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "jazz",
+    "genre_label": "jazz",
+    "style_label": "melancholic",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "melancholic jazz",
+    "genre_label": "jazz",
+    "style_label": "melancholic",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "jazz with melancholic atmosphere",
+    "genre_label": "jazz",
+    "style_label": "melancholic",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "jazz",
+    "genre_label": "jazz",
+    "style_label": "lo-fi",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "lo-fi jazz",
+    "genre_label": "jazz",
+    "style_label": "lo-fi",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "jazz with lo-fi atmosphere",
+    "genre_label": "jazz",
+    "style_label": "lo-fi",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "jazz",
+    "genre_label": "jazz",
+    "style_label": "aggressive",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "aggressive jazz",
+    "genre_label": "jazz",
+    "style_label": "aggressive",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "jazz with aggressive atmosphere",
+    "genre_label": "jazz",
+    "style_label": "aggressive",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "jazz",
+    "genre_label": "jazz",
+    "style_label": "dreamy",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "dreamy jazz",
+    "genre_label": "jazz",
+    "style_label": "dreamy",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "jazz with dreamy atmosphere",
+    "genre_label": "jazz",
+    "style_label": "dreamy",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "jazz",
+    "genre_label": "jazz",
+    "style_label": "minimalist",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "minimalist jazz",
+    "genre_label": "jazz",
+    "style_label": "minimalist",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "jazz with minimalist atmosphere",
+    "genre_label": "jazz",
+    "style_label": "minimalist",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "classical",
+    "genre_label": "classical",
+    "style_label": "energetic",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "energetic classical",
+    "genre_label": "classical",
+    "style_label": "energetic",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "classical with energetic atmosphere",
+    "genre_label": "classical",
+    "style_label": "energetic",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "classical",
+    "genre_label": "classical",
+    "style_label": "melancholic",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "melancholic classical",
+    "genre_label": "classical",
+    "style_label": "melancholic",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "classical with melancholic atmosphere",
+    "genre_label": "classical",
+    "style_label": "melancholic",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "classical",
+    "genre_label": "classical",
+    "style_label": "lo-fi",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "lo-fi classical",
+    "genre_label": "classical",
+    "style_label": "lo-fi",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "classical with lo-fi atmosphere",
+    "genre_label": "classical",
+    "style_label": "lo-fi",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "classical",
+    "genre_label": "classical",
+    "style_label": "aggressive",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "aggressive classical",
+    "genre_label": "classical",
+    "style_label": "aggressive",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "classical with aggressive atmosphere",
+    "genre_label": "classical",
+    "style_label": "aggressive",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "classical",
+    "genre_label": "classical",
+    "style_label": "dreamy",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "dreamy classical",
+    "genre_label": "classical",
+    "style_label": "dreamy",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "classical with dreamy atmosphere",
+    "genre_label": "classical",
+    "style_label": "dreamy",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "classical",
+    "genre_label": "classical",
+    "style_label": "minimalist",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "minimalist classical",
+    "genre_label": "classical",
+    "style_label": "minimalist",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "classical with minimalist atmosphere",
+    "genre_label": "classical",
+    "style_label": "minimalist",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "heavy metal",
+    "genre_label": "heavy metal",
+    "style_label": "energetic",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "energetic heavy metal",
+    "genre_label": "heavy metal",
+    "style_label": "energetic",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "heavy metal with energetic atmosphere",
+    "genre_label": "heavy metal",
+    "style_label": "energetic",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "heavy metal",
+    "genre_label": "heavy metal",
+    "style_label": "melancholic",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "melancholic heavy metal",
+    "genre_label": "heavy metal",
+    "style_label": "melancholic",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "heavy metal with melancholic atmosphere",
+    "genre_label": "heavy metal",
+    "style_label": "melancholic",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "heavy metal",
+    "genre_label": "heavy metal",
+    "style_label": "lo-fi",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "lo-fi heavy metal",
+    "genre_label": "heavy metal",
+    "style_label": "lo-fi",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "heavy metal with lo-fi atmosphere",
+    "genre_label": "heavy metal",
+    "style_label": "lo-fi",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "heavy metal",
+    "genre_label": "heavy metal",
+    "style_label": "aggressive",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "aggressive heavy metal",
+    "genre_label": "heavy metal",
+    "style_label": "aggressive",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "heavy metal with aggressive atmosphere",
+    "genre_label": "heavy metal",
+    "style_label": "aggressive",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "heavy metal",
+    "genre_label": "heavy metal",
+    "style_label": "dreamy",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "dreamy heavy metal",
+    "genre_label": "heavy metal",
+    "style_label": "dreamy",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "heavy metal with dreamy atmosphere",
+    "genre_label": "heavy metal",
+    "style_label": "dreamy",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "heavy metal",
+    "genre_label": "heavy metal",
+    "style_label": "minimalist",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "minimalist heavy metal",
+    "genre_label": "heavy metal",
+    "style_label": "minimalist",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "heavy metal with minimalist atmosphere",
+    "genre_label": "heavy metal",
+    "style_label": "minimalist",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "reggae",
+    "genre_label": "reggae",
+    "style_label": "energetic",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "energetic reggae",
+    "genre_label": "reggae",
+    "style_label": "energetic",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "reggae with energetic atmosphere",
+    "genre_label": "reggae",
+    "style_label": "energetic",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "reggae",
+    "genre_label": "reggae",
+    "style_label": "melancholic",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "melancholic reggae",
+    "genre_label": "reggae",
+    "style_label": "melancholic",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "reggae with melancholic atmosphere",
+    "genre_label": "reggae",
+    "style_label": "melancholic",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "reggae",
+    "genre_label": "reggae",
+    "style_label": "lo-fi",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "lo-fi reggae",
+    "genre_label": "reggae",
+    "style_label": "lo-fi",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "reggae with lo-fi atmosphere",
+    "genre_label": "reggae",
+    "style_label": "lo-fi",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "reggae",
+    "genre_label": "reggae",
+    "style_label": "aggressive",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "aggressive reggae",
+    "genre_label": "reggae",
+    "style_label": "aggressive",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "reggae with aggressive atmosphere",
+    "genre_label": "reggae",
+    "style_label": "aggressive",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "reggae",
+    "genre_label": "reggae",
+    "style_label": "dreamy",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "dreamy reggae",
+    "genre_label": "reggae",
+    "style_label": "dreamy",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "reggae with dreamy atmosphere",
+    "genre_label": "reggae",
+    "style_label": "dreamy",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "reggae",
+    "genre_label": "reggae",
+    "style_label": "minimalist",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "minimalist reggae",
+    "genre_label": "reggae",
+    "style_label": "minimalist",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "reggae with minimalist atmosphere",
+    "genre_label": "reggae",
+    "style_label": "minimalist",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "hip-hop",
+    "genre_label": "hip-hop",
+    "style_label": "energetic",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "energetic hip-hop",
+    "genre_label": "hip-hop",
+    "style_label": "energetic",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "hip-hop with energetic atmosphere",
+    "genre_label": "hip-hop",
+    "style_label": "energetic",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "hip-hop",
+    "genre_label": "hip-hop",
+    "style_label": "melancholic",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "melancholic hip-hop",
+    "genre_label": "hip-hop",
+    "style_label": "melancholic",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "hip-hop with melancholic atmosphere",
+    "genre_label": "hip-hop",
+    "style_label": "melancholic",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "hip-hop",
+    "genre_label": "hip-hop",
+    "style_label": "lo-fi",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "lo-fi hip-hop",
+    "genre_label": "hip-hop",
+    "style_label": "lo-fi",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "hip-hop with lo-fi atmosphere",
+    "genre_label": "hip-hop",
+    "style_label": "lo-fi",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "hip-hop",
+    "genre_label": "hip-hop",
+    "style_label": "aggressive",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "aggressive hip-hop",
+    "genre_label": "hip-hop",
+    "style_label": "aggressive",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "hip-hop with aggressive atmosphere",
+    "genre_label": "hip-hop",
+    "style_label": "aggressive",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "hip-hop",
+    "genre_label": "hip-hop",
+    "style_label": "dreamy",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "dreamy hip-hop",
+    "genre_label": "hip-hop",
+    "style_label": "dreamy",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "hip-hop with dreamy atmosphere",
+    "genre_label": "hip-hop",
+    "style_label": "dreamy",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "hip-hop",
+    "genre_label": "hip-hop",
+    "style_label": "minimalist",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "minimalist hip-hop",
+    "genre_label": "hip-hop",
+    "style_label": "minimalist",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "hip-hop with minimalist atmosphere",
+    "genre_label": "hip-hop",
+    "style_label": "minimalist",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "bossa nova",
+    "genre_label": "bossa nova",
+    "style_label": "energetic",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "energetic bossa nova",
+    "genre_label": "bossa nova",
+    "style_label": "energetic",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "bossa nova with energetic atmosphere",
+    "genre_label": "bossa nova",
+    "style_label": "energetic",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "bossa nova",
+    "genre_label": "bossa nova",
+    "style_label": "melancholic",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "melancholic bossa nova",
+    "genre_label": "bossa nova",
+    "style_label": "melancholic",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "bossa nova with melancholic atmosphere",
+    "genre_label": "bossa nova",
+    "style_label": "melancholic",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "bossa nova",
+    "genre_label": "bossa nova",
+    "style_label": "lo-fi",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "lo-fi bossa nova",
+    "genre_label": "bossa nova",
+    "style_label": "lo-fi",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "bossa nova with lo-fi atmosphere",
+    "genre_label": "bossa nova",
+    "style_label": "lo-fi",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "bossa nova",
+    "genre_label": "bossa nova",
+    "style_label": "aggressive",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "aggressive bossa nova",
+    "genre_label": "bossa nova",
+    "style_label": "aggressive",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "bossa nova with aggressive atmosphere",
+    "genre_label": "bossa nova",
+    "style_label": "aggressive",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "bossa nova",
+    "genre_label": "bossa nova",
+    "style_label": "dreamy",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "dreamy bossa nova",
+    "genre_label": "bossa nova",
+    "style_label": "dreamy",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "bossa nova with dreamy atmosphere",
+    "genre_label": "bossa nova",
+    "style_label": "dreamy",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "bossa nova",
+    "genre_label": "bossa nova",
+    "style_label": "minimalist",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "minimalist bossa nova",
+    "genre_label": "bossa nova",
+    "style_label": "minimalist",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "bossa nova with minimalist atmosphere",
+    "genre_label": "bossa nova",
+    "style_label": "minimalist",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "ambient",
+    "genre_label": "ambient",
+    "style_label": "energetic",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "energetic ambient",
+    "genre_label": "ambient",
+    "style_label": "energetic",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "ambient with energetic atmosphere",
+    "genre_label": "ambient",
+    "style_label": "energetic",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "ambient",
+    "genre_label": "ambient",
+    "style_label": "melancholic",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "melancholic ambient",
+    "genre_label": "ambient",
+    "style_label": "melancholic",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "ambient with melancholic atmosphere",
+    "genre_label": "ambient",
+    "style_label": "melancholic",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "ambient",
+    "genre_label": "ambient",
+    "style_label": "lo-fi",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "lo-fi ambient",
+    "genre_label": "ambient",
+    "style_label": "lo-fi",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "ambient with lo-fi atmosphere",
+    "genre_label": "ambient",
+    "style_label": "lo-fi",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "ambient",
+    "genre_label": "ambient",
+    "style_label": "aggressive",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "aggressive ambient",
+    "genre_label": "ambient",
+    "style_label": "aggressive",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "ambient with aggressive atmosphere",
+    "genre_label": "ambient",
+    "style_label": "aggressive",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "ambient",
+    "genre_label": "ambient",
+    "style_label": "dreamy",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "dreamy ambient",
+    "genre_label": "ambient",
+    "style_label": "dreamy",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "ambient with dreamy atmosphere",
+    "genre_label": "ambient",
+    "style_label": "dreamy",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "ambient",
+    "genre_label": "ambient",
+    "style_label": "minimalist",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "minimalist ambient",
+    "genre_label": "ambient",
+    "style_label": "minimalist",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "ambient with minimalist atmosphere",
+    "genre_label": "ambient",
+    "style_label": "minimalist",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "drum and bass",
+    "genre_label": "drum and bass",
+    "style_label": "energetic",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "energetic drum and bass",
+    "genre_label": "drum and bass",
+    "style_label": "energetic",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "drum and bass with energetic atmosphere",
+    "genre_label": "drum and bass",
+    "style_label": "energetic",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "drum and bass",
+    "genre_label": "drum and bass",
+    "style_label": "melancholic",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "melancholic drum and bass",
+    "genre_label": "drum and bass",
+    "style_label": "melancholic",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "drum and bass with melancholic atmosphere",
+    "genre_label": "drum and bass",
+    "style_label": "melancholic",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "drum and bass",
+    "genre_label": "drum and bass",
+    "style_label": "lo-fi",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "lo-fi drum and bass",
+    "genre_label": "drum and bass",
+    "style_label": "lo-fi",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "drum and bass with lo-fi atmosphere",
+    "genre_label": "drum and bass",
+    "style_label": "lo-fi",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "drum and bass",
+    "genre_label": "drum and bass",
+    "style_label": "aggressive",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "aggressive drum and bass",
+    "genre_label": "drum and bass",
+    "style_label": "aggressive",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "drum and bass with aggressive atmosphere",
+    "genre_label": "drum and bass",
+    "style_label": "aggressive",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "drum and bass",
+    "genre_label": "drum and bass",
+    "style_label": "dreamy",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "dreamy drum and bass",
+    "genre_label": "drum and bass",
+    "style_label": "dreamy",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "drum and bass with dreamy atmosphere",
+    "genre_label": "drum and bass",
+    "style_label": "dreamy",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "drum and bass",
+    "genre_label": "drum and bass",
+    "style_label": "minimalist",
+    "template_id": 0,
+    "set": "joint"
+  },
+  {
+    "text": "minimalist drum and bass",
+    "genre_label": "drum and bass",
+    "style_label": "minimalist",
+    "template_id": 1,
+    "set": "joint"
+  },
+  {
+    "text": "drum and bass with minimalist atmosphere",
+    "genre_label": "drum and bass",
+    "style_label": "minimalist",
+    "template_id": 2,
+    "set": "joint"
+  },
+  {
+    "text": "deep house",
+    "genre_label": "deep house",
+    "style_label": null,
+    "template_id": 0,
+    "set": "genre_only"
+  },
+  {
+    "text": "deep house music",
+    "genre_label": "deep house",
+    "style_label": null,
+    "template_id": 1,
+    "set": "genre_only"
+  },
+  {
+    "text": "a deep house track",
+    "genre_label": "deep house",
+    "style_label": null,
+    "template_id": 2,
+    "set": "genre_only"
+  },
+  {
+    "text": "deep house song",
+    "genre_label": "deep house",
+    "style_label": null,
+    "template_id": 3,
+    "set": "genre_only"
+  },
+  {
+    "text": "playing deep house",
+    "genre_label": "deep house",
+    "style_label": null,
+    "template_id": 4,
+    "set": "genre_only"
+  },
+  {
+    "text": "deep house style",
+    "genre_label": "deep house",
+    "style_label": null,
+    "template_id": 5,
+    "set": "genre_only"
+  },
+  {
+    "text": "deep house beat",
+    "genre_label": "deep house",
+    "style_label": null,
+    "template_id": 6,
+    "set": "genre_only"
+  },
+  {
+    "text": "deep house sound",
+    "genre_label": "deep house",
+    "style_label": null,
+    "template_id": 7,
+    "set": "genre_only"
+  },
+  {
+    "text": "the sound of deep house",
+    "genre_label": "deep house",
+    "style_label": null,
+    "template_id": 8,
+    "set": "genre_only"
+  },
+  {
+    "text": "deep house vibe",
+    "genre_label": "deep house",
+    "style_label": null,
+    "template_id": 9,
+    "set": "genre_only"
+  },
+  {
+    "text": "techno",
+    "genre_label": "techno",
+    "style_label": null,
+    "template_id": 0,
+    "set": "genre_only"
+  },
+  {
+    "text": "techno music",
+    "genre_label": "techno",
+    "style_label": null,
+    "template_id": 1,
+    "set": "genre_only"
+  },
+  {
+    "text": "a techno track",
+    "genre_label": "techno",
+    "style_label": null,
+    "template_id": 2,
+    "set": "genre_only"
+  },
+  {
+    "text": "techno song",
+    "genre_label": "techno",
+    "style_label": null,
+    "template_id": 3,
+    "set": "genre_only"
+  },
+  {
+    "text": "playing techno",
+    "genre_label": "techno",
+    "style_label": null,
+    "template_id": 4,
+    "set": "genre_only"
+  },
+  {
+    "text": "techno style",
+    "genre_label": "techno",
+    "style_label": null,
+    "template_id": 5,
+    "set": "genre_only"
+  },
+  {
+    "text": "techno beat",
+    "genre_label": "techno",
+    "style_label": null,
+    "template_id": 6,
+    "set": "genre_only"
+  },
+  {
+    "text": "techno sound",
+    "genre_label": "techno",
+    "style_label": null,
+    "template_id": 7,
+    "set": "genre_only"
+  },
+  {
+    "text": "the sound of techno",
+    "genre_label": "techno",
+    "style_label": null,
+    "template_id": 8,
+    "set": "genre_only"
+  },
+  {
+    "text": "techno vibe",
+    "genre_label": "techno",
+    "style_label": null,
+    "template_id": 9,
+    "set": "genre_only"
+  },
+  {
+    "text": "jazz",
+    "genre_label": "jazz",
+    "style_label": null,
+    "template_id": 0,
+    "set": "genre_only"
+  },
+  {
+    "text": "jazz music",
+    "genre_label": "jazz",
+    "style_label": null,
+    "template_id": 1,
+    "set": "genre_only"
+  },
+  {
+    "text": "a jazz track",
+    "genre_label": "jazz",
+    "style_label": null,
+    "template_id": 2,
+    "set": "genre_only"
+  },
+  {
+    "text": "jazz song",
+    "genre_label": "jazz",
+    "style_label": null,
+    "template_id": 3,
+    "set": "genre_only"
+  },
+  {
+    "text": "playing jazz",
+    "genre_label": "jazz",
+    "style_label": null,
+    "template_id": 4,
+    "set": "genre_only"
+  },
+  {
+    "text": "jazz style",
+    "genre_label": "jazz",
+    "style_label": null,
+    "template_id": 5,
+    "set": "genre_only"
+  },
+  {
+    "text": "jazz beat",
+    "genre_label": "jazz",
+    "style_label": null,
+    "template_id": 6,
+    "set": "genre_only"
+  },
+  {
+    "text": "jazz sound",
+    "genre_label": "jazz",
+    "style_label": null,
+    "template_id": 7,
+    "set": "genre_only"
+  },
+  {
+    "text": "the sound of jazz",
+    "genre_label": "jazz",
+    "style_label": null,
+    "template_id": 8,
+    "set": "genre_only"
+  },
+  {
+    "text": "jazz vibe",
+    "genre_label": "jazz",
+    "style_label": null,
+    "template_id": 9,
+    "set": "genre_only"
+  },
+  {
+    "text": "classical",
+    "genre_label": "classical",
+    "style_label": null,
+    "template_id": 0,
+    "set": "genre_only"
+  },
+  {
+    "text": "classical music",
+    "genre_label": "classical",
+    "style_label": null,
+    "template_id": 1,
+    "set": "genre_only"
+  },
+  {
+    "text": "a classical track",
+    "genre_label": "classical",
+    "style_label": null,
+    "template_id": 2,
+    "set": "genre_only"
+  },
+  {
+    "text": "classical song",
+    "genre_label": "classical",
+    "style_label": null,
+    "template_id": 3,
+    "set": "genre_only"
+  },
+  {
+    "text": "playing classical",
+    "genre_label": "classical",
+    "style_label": null,
+    "template_id": 4,
+    "set": "genre_only"
+  },
+  {
+    "text": "classical style",
+    "genre_label": "classical",
+    "style_label": null,
+    "template_id": 5,
+    "set": "genre_only"
+  },
+  {
+    "text": "classical beat",
+    "genre_label": "classical",
+    "style_label": null,
+    "template_id": 6,
+    "set": "genre_only"
+  },
+  {
+    "text": "classical sound",
+    "genre_label": "classical",
+    "style_label": null,
+    "template_id": 7,
+    "set": "genre_only"
+  },
+  {
+    "text": "the sound of classical",
+    "genre_label": "classical",
+    "style_label": null,
+    "template_id": 8,
+    "set": "genre_only"
+  },
+  {
+    "text": "classical vibe",
+    "genre_label": "classical",
+    "style_label": null,
+    "template_id": 9,
+    "set": "genre_only"
+  },
+  {
+    "text": "heavy metal",
+    "genre_label": "heavy metal",
+    "style_label": null,
+    "template_id": 0,
+    "set": "genre_only"
+  },
+  {
+    "text": "heavy metal music",
+    "genre_label": "heavy metal",
+    "style_label": null,
+    "template_id": 1,
+    "set": "genre_only"
+  },
+  {
+    "text": "a heavy metal track",
+    "genre_label": "heavy metal",
+    "style_label": null,
+    "template_id": 2,
+    "set": "genre_only"
+  },
+  {
+    "text": "heavy metal song",
+    "genre_label": "heavy metal",
+    "style_label": null,
+    "template_id": 3,
+    "set": "genre_only"
+  },
+  {
+    "text": "playing heavy metal",
+    "genre_label": "heavy metal",
+    "style_label": null,
+    "template_id": 4,
+    "set": "genre_only"
+  },
+  {
+    "text": "heavy metal style",
+    "genre_label": "heavy metal",
+    "style_label": null,
+    "template_id": 5,
+    "set": "genre_only"
+  },
+  {
+    "text": "heavy metal beat",
+    "genre_label": "heavy metal",
+    "style_label": null,
+    "template_id": 6,
+    "set": "genre_only"
+  },
+  {
+    "text": "heavy metal sound",
+    "genre_label": "heavy metal",
+    "style_label": null,
+    "template_id": 7,
+    "set": "genre_only"
+  },
+  {
+    "text": "the sound of heavy metal",
+    "genre_label": "heavy metal",
+    "style_label": null,
+    "template_id": 8,
+    "set": "genre_only"
+  },
+  {
+    "text": "heavy metal vibe",
+    "genre_label": "heavy metal",
+    "style_label": null,
+    "template_id": 9,
+    "set": "genre_only"
+  },
+  {
+    "text": "reggae",
+    "genre_label": "reggae",
+    "style_label": null,
+    "template_id": 0,
+    "set": "genre_only"
+  },
+  {
+    "text": "reggae music",
+    "genre_label": "reggae",
+    "style_label": null,
+    "template_id": 1,
+    "set": "genre_only"
+  },
+  {
+    "text": "a reggae track",
+    "genre_label": "reggae",
+    "style_label": null,
+    "template_id": 2,
+    "set": "genre_only"
+  },
+  {
+    "text": "reggae song",
+    "genre_label": "reggae",
+    "style_label": null,
+    "template_id": 3,
+    "set": "genre_only"
+  },
+  {
+    "text": "playing reggae",
+    "genre_label": "reggae",
+    "style_label": null,
+    "template_id": 4,
+    "set": "genre_only"
+  },
+  {
+    "text": "reggae style",
+    "genre_label": "reggae",
+    "style_label": null,
+    "template_id": 5,
+    "set": "genre_only"
+  },
+  {
+    "text": "reggae beat",
+    "genre_label": "reggae",
+    "style_label": null,
+    "template_id": 6,
+    "set": "genre_only"
+  },
+  {
+    "text": "reggae sound",
+    "genre_label": "reggae",
+    "style_label": null,
+    "template_id": 7,
+    "set": "genre_only"
+  },
+  {
+    "text": "the sound of reggae",
+    "genre_label": "reggae",
+    "style_label": null,
+    "template_id": 8,
+    "set": "genre_only"
+  },
+  {
+    "text": "reggae vibe",
+    "genre_label": "reggae",
+    "style_label": null,
+    "template_id": 9,
+    "set": "genre_only"
+  },
+  {
+    "text": "hip-hop",
+    "genre_label": "hip-hop",
+    "style_label": null,
+    "template_id": 0,
+    "set": "genre_only"
+  },
+  {
+    "text": "hip-hop music",
+    "genre_label": "hip-hop",
+    "style_label": null,
+    "template_id": 1,
+    "set": "genre_only"
+  },
+  {
+    "text": "a hip-hop track",
+    "genre_label": "hip-hop",
+    "style_label": null,
+    "template_id": 2,
+    "set": "genre_only"
+  },
+  {
+    "text": "hip-hop song",
+    "genre_label": "hip-hop",
+    "style_label": null,
+    "template_id": 3,
+    "set": "genre_only"
+  },
+  {
+    "text": "playing hip-hop",
+    "genre_label": "hip-hop",
+    "style_label": null,
+    "template_id": 4,
+    "set": "genre_only"
+  },
+  {
+    "text": "hip-hop style",
+    "genre_label": "hip-hop",
+    "style_label": null,
+    "template_id": 5,
+    "set": "genre_only"
+  },
+  {
+    "text": "hip-hop beat",
+    "genre_label": "hip-hop",
+    "style_label": null,
+    "template_id": 6,
+    "set": "genre_only"
+  },
+  {
+    "text": "hip-hop sound",
+    "genre_label": "hip-hop",
+    "style_label": null,
+    "template_id": 7,
+    "set": "genre_only"
+  },
+  {
+    "text": "the sound of hip-hop",
+    "genre_label": "hip-hop",
+    "style_label": null,
+    "template_id": 8,
+    "set": "genre_only"
+  },
+  {
+    "text": "hip-hop vibe",
+    "genre_label": "hip-hop",
+    "style_label": null,
+    "template_id": 9,
+    "set": "genre_only"
+  },
+  {
+    "text": "bossa nova",
+    "genre_label": "bossa nova",
+    "style_label": null,
+    "template_id": 0,
+    "set": "genre_only"
+  },
+  {
+    "text": "bossa nova music",
+    "genre_label": "bossa nova",
+    "style_label": null,
+    "template_id": 1,
+    "set": "genre_only"
+  },
+  {
+    "text": "a bossa nova track",
+    "genre_label": "bossa nova",
+    "style_label": null,
+    "template_id": 2,
+    "set": "genre_only"
+  },
+  {
+    "text": "bossa nova song",
+    "genre_label": "bossa nova",
+    "style_label": null,
+    "template_id": 3,
+    "set": "genre_only"
+  },
+  {
+    "text": "playing bossa nova",
+    "genre_label": "bossa nova",
+    "style_label": null,
+    "template_id": 4,
+    "set": "genre_only"
+  },
+  {
+    "text": "bossa nova style",
+    "genre_label": "bossa nova",
+    "style_label": null,
+    "template_id": 5,
+    "set": "genre_only"
+  },
+  {
+    "text": "bossa nova beat",
+    "genre_label": "bossa nova",
+    "style_label": null,
+    "template_id": 6,
+    "set": "genre_only"
+  },
+  {
+    "text": "bossa nova sound",
+    "genre_label": "bossa nova",
+    "style_label": null,
+    "template_id": 7,
+    "set": "genre_only"
+  },
+  {
+    "text": "the sound of bossa nova",
+    "genre_label": "bossa nova",
+    "style_label": null,
+    "template_id": 8,
+    "set": "genre_only"
+  },
+  {
+    "text": "bossa nova vibe",
+    "genre_label": "bossa nova",
+    "style_label": null,
+    "template_id": 9,
+    "set": "genre_only"
+  },
+  {
+    "text": "ambient",
+    "genre_label": "ambient",
+    "style_label": null,
+    "template_id": 0,
+    "set": "genre_only"
+  },
+  {
+    "text": "ambient music",
+    "genre_label": "ambient",
+    "style_label": null,
+    "template_id": 1,
+    "set": "genre_only"
+  },
+  {
+    "text": "a ambient track",
+    "genre_label": "ambient",
+    "style_label": null,
+    "template_id": 2,
+    "set": "genre_only"
+  },
+  {
+    "text": "ambient song",
+    "genre_label": "ambient",
+    "style_label": null,
+    "template_id": 3,
+    "set": "genre_only"
+  },
+  {
+    "text": "playing ambient",
+    "genre_label": "ambient",
+    "style_label": null,
+    "template_id": 4,
+    "set": "genre_only"
+  },
+  {
+    "text": "ambient style",
+    "genre_label": "ambient",
+    "style_label": null,
+    "template_id": 5,
+    "set": "genre_only"
+  },
+  {
+    "text": "ambient beat",
+    "genre_label": "ambient",
+    "style_label": null,
+    "template_id": 6,
+    "set": "genre_only"
+  },
+  {
+    "text": "ambient sound",
+    "genre_label": "ambient",
+    "style_label": null,
+    "template_id": 7,
+    "set": "genre_only"
+  },
+  {
+    "text": "the sound of ambient",
+    "genre_label": "ambient",
+    "style_label": null,
+    "template_id": 8,
+    "set": "genre_only"
+  },
+  {
+    "text": "ambient vibe",
+    "genre_label": "ambient",
+    "style_label": null,
+    "template_id": 9,
+    "set": "genre_only"
+  },
+  {
+    "text": "drum and bass",
+    "genre_label": "drum and bass",
+    "style_label": null,
+    "template_id": 0,
+    "set": "genre_only"
+  },
+  {
+    "text": "drum and bass music",
+    "genre_label": "drum and bass",
+    "style_label": null,
+    "template_id": 1,
+    "set": "genre_only"
+  },
+  {
+    "text": "a drum and bass track",
+    "genre_label": "drum and bass",
+    "style_label": null,
+    "template_id": 2,
+    "set": "genre_only"
+  },
+  {
+    "text": "drum and bass song",
+    "genre_label": "drum and bass",
+    "style_label": null,
+    "template_id": 3,
+    "set": "genre_only"
+  },
+  {
+    "text": "playing drum and bass",
+    "genre_label": "drum and bass",
+    "style_label": null,
+    "template_id": 4,
+    "set": "genre_only"
+  },
+  {
+    "text": "drum and bass style",
+    "genre_label": "drum and bass",
+    "style_label": null,
+    "template_id": 5,
+    "set": "genre_only"
+  },
+  {
+    "text": "drum and bass beat",
+    "genre_label": "drum and bass",
+    "style_label": null,
+    "template_id": 6,
+    "set": "genre_only"
+  },
+  {
+    "text": "drum and bass sound",
+    "genre_label": "drum and bass",
+    "style_label": null,
+    "template_id": 7,
+    "set": "genre_only"
+  },
+  {
+    "text": "the sound of drum and bass",
+    "genre_label": "drum and bass",
+    "style_label": null,
+    "template_id": 8,
+    "set": "genre_only"
+  },
+  {
+    "text": "drum and bass vibe",
+    "genre_label": "drum and bass",
+    "style_label": null,
+    "template_id": 9,
+    "set": "genre_only"
+  }
+]

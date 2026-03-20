@@ -1,0 +1,297 @@
+{
+  "dataset": "MTAT",
+  "condition": "audio",
+  "artist_disjoint": true,
+  "num_tasks": 6,
+  "results": [
+    {
+      "attribute": "loudness_proxy",
+      "task_type": "binary",
+      "classes": [
+        "loud",
+        "quiet"
+      ],
+      "num_classes": 2,
+      "num_samples": 92,
+      "class_counts": {
+        "loud": 47,
+        "quiet": 45
+      },
+      "cv_splits": 3,
+      "accuracy_mean": 0.9299940466880798,
+      "accuracy_std": 0.03757503256201744,
+      "balanced_accuracy_mean": 0.9300552010536194,
+      "balanced_accuracy_std": 0.043417759239673615,
+      "chance_baseline": 0.5,
+      "margin_over_chance": 0.42999404668807983,
+      "is_above_chance": true,
+      "fold_metrics": [
+        {
+          "fold": 0,
+          "accuracy": 0.88,
+          "balanced_accuracy": 0.873015873015873,
+          "n_train": 67,
+          "n_test": 25
+        },
+        {
+          "fold": 1,
+          "accuracy": 0.9705882352941176,
+          "balanced_accuracy": 0.9782608695652174,
+          "n_train": 58,
+          "n_test": 34
+        },
+        {
+          "fold": 2,
+          "accuracy": 0.9393939393939394,
+          "balanced_accuracy": 0.9388888888888889,
+          "n_train": 59,
+          "n_test": 33
+        }
+      ]
+    },
+    {
+      "attribute": "structure_chorus_proxy",
+      "task_type": "binary",
+      "classes": [
+        "chorus_absent",
+        "chorus_present"
+      ],
+      "num_classes": 2,
+      "num_samples": 65,
+      "class_counts": {
+        "chorus_absent": 40,
+        "chorus_present": 25
+      },
+      "cv_splits": 3,
+      "accuracy_mean": 0.8074495196342468,
+      "accuracy_std": 0.11082736402750015,
+      "balanced_accuracy_mean": 0.7937770485877991,
+      "balanced_accuracy_std": 0.12490934133529663,
+      "chance_baseline": 0.5,
+      "margin_over_chance": 0.3074495196342468,
+      "is_above_chance": true,
+      "fold_metrics": [
+        {
+          "fold": 0,
+          "accuracy": 0.6666666666666666,
+          "balanced_accuracy": 0.65,
+          "n_train": 38,
+          "n_test": 27
+        },
+        {
+          "fold": 1,
+          "accuracy": 0.8181818181818182,
+          "balanced_accuracy": 0.7767857142857143,
+          "n_train": 43,
+          "n_test": 22
+        },
+        {
+          "fold": 2,
+          "accuracy": 0.9375,
+          "balanced_accuracy": 0.9545454545454546,
+          "n_train": 49,
+          "n_test": 16
+        }
+      ]
+    },
+    {
+      "attribute": "timbre_proxy",
+      "task_type": "multiclass",
+      "classes": [
+        "airy",
+        "dark",
+        "hard",
+        "soft"
+      ],
+      "num_classes": 4,
+      "num_samples": 81,
+      "class_counts": {
+        "airy": 18,
+        "dark": 20,
+        "hard": 24,
+        "soft": 19
+      },
+      "cv_splits": 3,
+      "accuracy_mean": 0.7180375456809998,
+      "accuracy_std": 0.100258968770504,
+      "balanced_accuracy_mean": 0.6703343391418457,
+      "balanced_accuracy_std": 0.10517916083335876,
+      "chance_baseline": 0.25,
+      "margin_over_chance": 0.46803754568099976,
+      "is_above_chance": true,
+      "fold_metrics": [
+        {
+          "fold": 0,
+          "accuracy": 0.696969696969697,
+          "balanced_accuracy": 0.7392857142857143,
+          "n_train": 48,
+          "n_test": 33
+        },
+        {
+          "fold": 1,
+          "accuracy": 0.6071428571428571,
+          "balanced_accuracy": 0.5217171717171717,
+          "n_train": 53,
+          "n_test": 28
+        },
+        {
+          "fold": 2,
+          "accuracy": 0.85,
+          "balanced_accuracy": 0.75,
+          "n_train": 61,
+          "n_test": 20
+        }
+      ]
+    },
+    {
+      "attribute": "octave_proxy",
+      "task_type": "binary",
+      "classes": [
+        "low_register",
+        "not_low_register"
+      ],
+      "num_classes": 2,
+      "num_samples": 92,
+      "class_counts": {
+        "low_register": 47,
+        "not_low_register": 45
+      },
+      "cv_splits": 3,
+      "accuracy_mean": 0.6886408925056458,
+      "accuracy_std": 0.07543803751468658,
+      "balanced_accuracy_mean": 0.6905660033226013,
+      "balanced_accuracy_std": 0.07740902155637741,
+      "chance_baseline": 0.5,
+      "margin_over_chance": 0.18864089250564575,
+      "is_above_chance": true,
+      "fold_metrics": [
+        {
+          "fold": 0,
+          "accuracy": 0.7931034482758621,
+          "balanced_accuracy": 0.7976190476190477,
+          "n_train": 63,
+          "n_test": 29
+        },
+        {
+          "fold": 1,
+          "accuracy": 0.6551724137931034,
+          "balanced_accuracy": 0.6568627450980392,
+          "n_train": 63,
+          "n_test": 29
+        },
+        {
+          "fold": 2,
+          "accuracy": 0.6176470588235294,
+          "balanced_accuracy": 0.6172161172161172,
+          "n_train": 58,
+          "n_test": 34
+        }
+      ]
+    },
+    {
+      "attribute": "tempo_proxy",
+      "task_type": "multiclass",
+      "classes": [
+        "fast",
+        "slow",
+        "upbeat"
+      ],
+      "num_classes": 3,
+      "num_samples": 90,
+      "class_counts": {
+        "fast": 25,
+        "slow": 32,
+        "upbeat": 33
+      },
+      "cv_splits": 3,
+      "accuracy_mean": 0.5833333134651184,
+      "accuracy_std": 0.06421265006065369,
+      "balanced_accuracy_mean": 0.5725669264793396,
+      "balanced_accuracy_std": 0.069575734436512,
+      "chance_baseline": 0.3333333333333333,
+      "margin_over_chance": 0.2499999701976776,
+      "is_above_chance": true,
+      "fold_metrics": [
+        {
+          "fold": 0,
+          "accuracy": 0.65625,
+          "balanced_accuracy": 0.6708754208754208,
+          "n_train": 58,
+          "n_test": 32
+        },
+        {
+          "fold": 1,
+          "accuracy": 0.5,
+          "balanced_accuracy": 0.526984126984127,
+          "n_train": 64,
+          "n_test": 26
+        },
+        {
+          "fold": 2,
+          "accuracy": 0.59375,
+          "balanced_accuracy": 0.5198412698412699,
+          "n_train": 58,
+          "n_test": 32
+        }
+      ]
+    },
+    {
+      "attribute": "instrument",
+      "task_type": "multiclass",
+      "classes": [
+        "drums",
+        "flute",
+        "guitar",
+        "piano",
+        "sax",
+        "synthesizer",
+        "trumpet",
+        "violin"
+      ],
+      "num_classes": 8,
+      "num_samples": 100,
+      "class_counts": {
+        "drums": 8,
+        "flute": 17,
+        "guitar": 4,
+        "piano": 16,
+        "sax": 22,
+        "synthesizer": 15,
+        "trumpet": 8,
+        "violin": 10
+      },
+      "cv_splits": 3,
+      "accuracy_mean": 0.5360453128814697,
+      "accuracy_std": 0.1549316644668579,
+      "balanced_accuracy_mean": 0.5596292018890381,
+      "balanced_accuracy_std": 0.12316135317087173,
+      "chance_baseline": 0.125,
+      "margin_over_chance": 0.4110453128814697,
+      "is_above_chance": true,
+      "fold_metrics": [
+        {
+          "fold": 0,
+          "accuracy": 0.3170731707317073,
+          "balanced_accuracy": 0.38599439775910366,
+          "n_train": 59,
+          "n_test": 41
+        },
+        {
+          "fold": 1,
+          "accuracy": 0.6388888888888888,
+          "balanced_accuracy": 0.6345598845598845,
+          "n_train": 64,
+          "n_test": 36
+        },
+        {
+          "fold": 2,
+          "accuracy": 0.6521739130434783,
+          "balanced_accuracy": 0.6583333333333333,
+          "n_train": 77,
+          "n_test": 23
+        }
+      ]
+    }
+  ],
+  "skipped": {}
+}

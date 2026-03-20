@@ -1,0 +1,27 @@
+{
+  "genre_accuracy_mean": 1.0,
+  "genre_accuracy_std": 0.0,
+  "style_accuracy_mean": 0.5666666666666667,
+  "style_accuracy_std": 0.07973722274670736,
+  "subspace_overlap_cosine": 2.4206164194895333e-16,
+  "genre_classes": [
+    "ambient",
+    "bossa nova",
+    "classical",
+    "deep house",
+    "drum and bass",
+    "heavy metal",
+    "hip-hop",
+    "jazz",
+    "reggae",
+    "techno"
+  ],
+  "style_classes": [
+    "aggressive",
+    "dreamy",
+    "energetic",
+    "lo-fi",
+    "melancholic",
+    "minimalist"
+  ]
+}
